@@ -701,19 +701,6 @@
      "A browser API to make developers aware of user preferences with regards to data savings"
     ],
     [
-     "scroll-animations",
-     "https://github.com/WICG/scroll-animations",
-     "",
-     "",
-     "",
-     "",
-     "yes",
-     "",
-     "",
-     "",
-     "Scroll-driven animations unofficial draft spec"
-    ],
-    [
      "https://github.com/WICG/ScrollToTextFragment",
      "https://github.com/WICG/Scroll-to-text-fragment",
      "",
@@ -902,8 +889,8 @@
      "Connecting hardware to the web."
     ],
     [
-     "https://github.com/wicg/web-codecs",
-     "#REF!",
+     "native-file-system",
+     "https://github.com/WICG/native-file-system",
      "",
      "",
      "",
@@ -915,8 +902,8 @@
      "Allowing sites to interact with local files more seamlessly."
     ],
     [
-     "",
-     "https://github.com/WICG/web-codecs",
+     "web-codecs",
+     "https://github.com/WICG/native-file-system",
      "",
      "yoav",
      "",
@@ -978,7 +965,7 @@
      "",
      "yoav",
      "",
-     "https://discourse.wicg.io/t/proposal-native-media-optimization-and-basic-editing-support/4068/8",
+     "",
      "yes",
      "November 19th, 2019"
     ],
@@ -1037,7 +1024,7 @@
      "",
      "Ilya",
      "",
-     "https://discourse.wicg.io/t/proposal-native-media-optimization-and-basic-editing-support/",
+     "",
      "yes",
      "2019-12-24",
      "",
@@ -1897,19 +1884,6 @@
      "Description": "A browser API to make developers aware of user preferences with regards to data savings"
     },
     {
-     "Repository": "scroll-animations",
-     "Link": "https://github.com/WICG/scroll-animations",
-     "Next Step": "",
-     "Initiator": "",
-     "Date last reviewed": "",
-     "Discourse thread": "",
-     "Repo-manager": "yes",
-     "Date Added": "",
-     "Shipping in": "",
-     "Mozilla position": "",
-     "Description": "Scroll-driven animations unofficial draft spec"
-    },
-    {
      "Repository": "Scroll-to-text-fragment",
      "Link": "https://github.com/WICG/Scroll-to-text-fragment",
      "Next Step": "",
@@ -2098,8 +2072,8 @@
      "Description": "Connecting hardware to the web."
     },
     {
-     "Repository": "web-codecs",
-     "Link": "#REF!",
+     "Repository": "native-file-system",
+     "Link": "https://github.com/WICG/native-file-system",
      "Next Step": "",
      "Initiator": "",
      "Date last reviewed": "",
@@ -2111,8 +2085,8 @@
      "Description": "Allowing sites to interact with local files more seamlessly."
     },
     {
-     "Repository": "",
-     "Link": "https://github.com/WICG/web-codecs",
+     "Repository": "web-codecs",
+     "Link": "https://github.com/WICG/native-file-system",
      "Next Step": "",
      "Initiator": "yoav",
      "Date last reviewed": "",
@@ -2174,7 +2148,7 @@
      "Next Step": "",
      "Initiator": "yoav",
      "Date last reviewed": "",
-     "Discourse thread": "https://discourse.wicg.io/t/proposal-native-media-optimization-and-basic-editing-support/4068/8",
+     "Discourse thread": "",
      "Repo-manager": "yes",
      "Date Added": "November 19th, 2019"
     },
@@ -2233,7 +2207,7 @@
      "Next Step": "",
      "Initiator": "Ilya",
      "Date last reviewed": "",
-     "Discourse thread": "https://discourse.wicg.io/t/proposal-native-media-optimization-and-basic-editing-support/",
+     "Discourse thread": "",
      "Repo-manager": "yes",
      "Date Added": "2019-12-24",
      "Shipping in": "",
@@ -2415,7 +2389,7 @@
    "headerValues": [
     "Repository",
     "Initiator",
-    "Date Added",
+    "Date taken",
     "Migrated to",
     "Shipping in",
     "Description"
@@ -2590,13 +2564,21 @@
      "",
      "Chrome, Safari",
      "Web API proposal for sharing data from a web page"
+    ],
+    [
+     "scroll-animations",
+     "",
+     "",
+     "CSS",
+     "",
+     "Scroll-driven animations unofficial draft spec"
     ]
    ],
    "data": [
     {
      "Repository": "animation-worklet",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "CSS",
      "Shipping in": "",
      "Description": "Old repository for AnimationWorklet specification ➡️ New repository: https://github.com/w3c/css-houdini-drafts"
@@ -2604,13 +2586,13 @@
     {
      "Repository": "autoplay",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "Media WG"
     },
     {
      "Repository": "auxclick",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "WebAppsWG",
      "Shipping in": "",
      "Description": "Description for non-primary button click event"
@@ -2618,13 +2600,13 @@
     {
      "Repository": "CSS-OVERSCROLL-BEHAVIOR",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "CSS"
     },
     {
      "Repository": "device-memory",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "WebPerf",
      "Shipping in": "",
      "Description": "Redirection repo to the real spec"
@@ -2632,13 +2614,13 @@
     {
      "Repository": "Feature policy",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "WebAppSec"
     },
     {
      "Repository": "geolocation-sensor",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "",
      "Shipping in": "",
      "Description": "Moved to https://github.com/w3c/geolocation-sensor"
@@ -2646,13 +2628,13 @@
     {
      "Repository": "IntersectionObserver",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "WebPlatform"
     },
     {
      "Repository": "longtasks",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "WebPerf",
      "Shipping in": "",
      "Description": "This repo has moved to the W3C org!"
@@ -2660,7 +2642,7 @@
     {
      "Repository": "media-capabilities",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "Media WG",
      "Shipping in": "",
      "Description": "Media Capabilities Standard"
@@ -2668,7 +2650,7 @@
     {
      "Repository": "media-playback-quality",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "Media WG",
      "Shipping in": "Chrome, Firefox",
      "Description": "Media Playback Quality"
@@ -2676,7 +2658,7 @@
     {
      "Repository": "mediasession",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "Media WG",
      "Shipping in": "Chrome",
      "Description": "Media Session Standard"
@@ -2684,7 +2666,7 @@
     {
      "Repository": "media-source",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "",
      "Shipping in": "",
      "Description": "Forked from w3c/media-source Media Source Extensions (vNext incubations on branches)"
@@ -2692,7 +2674,7 @@
     {
      "Repository": "paint-timing",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "WebPerf",
      "Shipping in": "",
      "Description": "Redirection repo to the real spec"
@@ -2700,20 +2682,20 @@
     {
      "Repository": "Payment Request API",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "WebPayments"
     },
     {
      "Repository": "performance-entry",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "",
      "Shipping in": "WebPerfWG"
     },
     {
      "Repository": "picture-in-picture",
      "Initiator": "Mounir",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "Media WG",
      "Shipping in": "Chrome",
      "Description": "Picture-in-Picture (PiP)"
@@ -2721,13 +2703,13 @@
     {
      "Repository": "report-log",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "WebPerf"
     },
     {
      "Repository": "reporting",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "",
      "Shipping in": "",
      "Description": "This repo has moved to the W3C org!"
@@ -2735,7 +2717,7 @@
     {
      "Repository": "ResizeObserver",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "CSS",
      "Shipping in": "",
      "Description": "This repository is no longer active. ResizeObserver has moved out of WICG into HTML"
@@ -2743,7 +2725,7 @@
     {
      "Repository": "ScrollAnchoring",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "CSS",
      "Shipping in": "",
      "Description": "Spec and explainer for the Scroll Anchoring web platform feature."
@@ -2751,16 +2733,24 @@
     {
      "Repository": "server-timing",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "WebPerf"
     },
     {
      "Repository": "web-share",
      "Initiator": "",
-     "Date Added": "",
+     "Date taken": "",
      "Migrated to": "",
      "Shipping in": "Chrome, Safari",
      "Description": "Web API proposal for sharing data from a web page"
+    },
+    {
+     "Repository": "scroll-animations",
+     "Initiator": "",
+     "Date taken": "",
+     "Migrated to": "CSS",
+     "Shipping in": "",
+     "Description": "Scroll-driven animations unofficial draft spec"
     }
    ]
   },
