@@ -215,7 +215,7 @@
      "https://github.com/WICG/CSS-Parser-API",
      "",
      "",
-     "",
+     "4/6/2020",
      "",
      "yes",
      "",
@@ -1090,7 +1090,7 @@
      "https://mozilla.github.io/standards-positions/#domenic-origin-isolation"
     ],
     [
-     "WebOTP",
+     "web-otp",
      "https://github.com/WICG/WebOTP",
      "",
      "cwilso",
@@ -1220,6 +1220,16 @@
      "https://discourse.wicg.io/t/proposal-pwas-as-uri-handlers/4394",
      "Yes",
      "2020-05-27"
+    ],
+    [
+     "first-party-sets",
+     "https://github.com/WICG/first-party-sets",
+     "",
+     "cwilso",
+     "",
+     "https://discourse.wicg.io/t/proposal-first-party-sets/3331",
+     "yes",
+     "2020/6/3"
     ]
    ],
    "data": [
@@ -1420,7 +1430,7 @@
      "Link": "https://github.com/WICG/CSS-Parser-API",
      "Next Step": "",
      "Initiator": "",
-     "Date last reviewed": "",
+     "Date last reviewed": "4/6/2020",
      "Discourse thread": "",
      "Repo-manager": "yes",
      "Date Added": "",
@@ -2295,7 +2305,7 @@
      "Mozilla position": "https://mozilla.github.io/standards-positions/#domenic-origin-isolation"
     },
     {
-     "Repository": "WebOTP",
+     "Repository": "web-otp",
      "Link": "https://github.com/WICG/WebOTP",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2425,6 +2435,16 @@
      "Discourse thread": "https://discourse.wicg.io/t/proposal-pwas-as-uri-handlers/4394",
      "Repo-manager": "Yes",
      "Date Added": "2020-05-27"
+    },
+    {
+     "Repository": "first-party-sets",
+     "Link": "https://github.com/WICG/first-party-sets",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Date last reviewed": "",
+     "Discourse thread": "https://discourse.wicg.io/t/proposal-first-party-sets/3331",
+     "Repo-manager": "yes",
+     "Date Added": "2020/6/3"
     }
    ]
   },
