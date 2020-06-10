@@ -827,19 +827,6 @@
      "Cross-tab resource coordination API"
     ],
     [
-     "web-share-target",
-     "https://github.com/WICG/web-share-target",
-     "",
-     "",
-     "",
-     "",
-     "yes",
-     "",
-     "",
-     "https://github.com/mozilla/standards-positions/issues/176",
-     "Web API proposal for receiving shared data"
-    ],
-    [
      "https://github.com/WICG/web-transport",
      "https://github.com/WICG/web-transport",
      "",
@@ -2042,19 +2029,6 @@
      "Description": "Cross-tab resource coordination API"
     },
     {
-     "Repository": "web-share-target",
-     "Link": "https://github.com/WICG/web-share-target",
-     "Next Step": "",
-     "Initiator": "",
-     "Date last reviewed": "",
-     "Discourse thread": "",
-     "Repo-manager": "yes",
-     "Date Added": "",
-     "Shipping in": "",
-     "Mozilla position": "https://github.com/mozilla/standards-positions/issues/176",
-     "Description": "Web API proposal for receiving shared data"
-    },
-    {
      "Repository": "web-transport",
      "Link": "https://github.com/WICG/web-transport",
      "Next Step": "",
@@ -2623,7 +2597,7 @@
     ],
     [
      "web-share",
-     "",
+     "mgiuca",
      "",
      "",
      "Chrome, Safari",
@@ -2636,6 +2610,14 @@
      "CSS",
      "",
      "Scroll-driven animations unofficial draft spec"
+    ],
+    [
+     "web-share-target",
+     "mgiuca",
+     "05/06/2020",
+     "WebAppsWG",
+     "Chrome",
+     "Allows websites to receive shares."
     ]
    ],
    "data": [
@@ -2802,7 +2784,7 @@
     },
     {
      "Repository": "web-share",
-     "Initiator": "",
+     "Initiator": "mgiuca",
      "Date taken": "",
      "Migrated to": "",
      "Shipping in": "Chrome, Safari",
@@ -2815,6 +2797,14 @@
      "Migrated to": "CSS",
      "Shipping in": "",
      "Description": "Scroll-driven animations unofficial draft spec"
+    },
+    {
+     "Repository": "web-share-target",
+     "Initiator": "mgiuca",
+     "Date taken": "05/06/2020",
+     "Migrated to": "WebAppsWG",
+     "Shipping in": "Chrome",
+     "Description": "Allows websites to receive shares."
     }
    ]
   },
