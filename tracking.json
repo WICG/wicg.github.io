@@ -97,7 +97,7 @@
     [
      "canvas-color-space",
      "https://github.com/WICG/canvas-color-space",
-     "",
+     "WHATWG?",
      "We pinged people agian",
      "",
      "09/062020",
@@ -112,7 +112,7 @@
     [
      "https://github.com/WICG/change-password-url",
      "https://github.com/WICG/change-password-url",
-     "WebAppSec Maybe",
+     "WebAppSec?",
      "Has broader support than Safari?",
      "",
      "09/062020",
@@ -461,7 +461,7 @@
     [
      "indexed-db-observers",
      "https://github.com/WICG/indexed-db-observers",
-     "",
+     "WebAppWG",
      "",
      "",
      "",
@@ -1476,7 +1476,7 @@
     {
      "Repository": "canvas-color-space",
      "Link": "https://github.com/WICG/canvas-color-space",
-     "Potential WG": "",
+     "Potential WG": "WHATWG?",
      "Next Step": "We pinged people agian",
      "Initiator": "",
      "Date last reviewed": "09/062020",
@@ -1491,7 +1491,7 @@
     {
      "Repository": "change-password-url",
      "Link": "https://github.com/WICG/change-password-url",
-     "Potential WG": "WebAppSec Maybe",
+     "Potential WG": "WebAppSec?",
      "Next Step": "Has broader support than Safari?",
      "Initiator": "",
      "Date last reviewed": "09/062020",
@@ -1840,7 +1840,7 @@
     {
      "Repository": "indexed-db-observers",
      "Link": "https://github.com/WICG/indexed-db-observers",
-     "Potential WG": "",
+     "Potential WG": "WebAppWG",
      "Next Step": "",
      "Initiator": "",
      "Date last reviewed": "",
