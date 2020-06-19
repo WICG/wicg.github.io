@@ -113,14 +113,15 @@
      "https://github.com/WICG/change-password-url",
      "https://github.com/WICG/change-password-url",
      "WebAppSec?",
-     "Has broader support than Safari?",
+     "Looks like Web Apps sec is taking it",
      "",
      "09/062020",
      "",
      "yes",
      "n/a",
      "",
-     "Safari"
+     "Safari",
+     "https://github.com/mozilla/standards-positions/issues/372"
     ],
     [
      "https://github.com/WICG/construct-stylesheets",
@@ -1492,14 +1493,15 @@
      "Repository": "change-password-url",
      "Link": "https://github.com/WICG/change-password-url",
      "Potential WG": "WebAppSec?",
-     "Next Step": "Has broader support than Safari?",
+     "Next Step": "Looks like Web Apps sec is taking it",
      "Initiator": "",
      "Date last reviewed": "09/062020",
      "Discourse thread": "",
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "n/a",
      "Date Added": "",
-     "Shipping in": "Safari"
+     "Shipping in": "Safari",
+     "Mozilla position": "https://github.com/mozilla/standards-positions/issues/372"
     },
     {
      "Repository": "construct-stylesheets",
