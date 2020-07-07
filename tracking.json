@@ -1397,6 +1397,42 @@
      "yes",
      "https://lists.w3.org/Archives/Public/public-review-announce/2020Jun/0000.html",
      "2020/6/3"
+    ],
+    [
+     "display-override",
+     "http://github.com/WICG/display-override",
+     "WebAppsWG",
+     "",
+     "various",
+     "",
+     "https://discourse.wicg.io/t/proposal-title-bar-customization-for-web-apps/",
+     "yes",
+     "",
+     "2020-07-06"
+    ],
+    [
+     "turtledove",
+     "https://github.com/wicg/turtledove",
+     "WebAppSec??",
+     "",
+     "yoav",
+     "",
+     "https://discourse.wicg.io/t/advertising-to-interest-groups-without-tracking/4565/",
+     "yes",
+     "",
+     "2020-07-06"
+    ],
+    [
+     "sparrow",
+     "https://github.com/WICG/sparrow",
+     "??",
+     "",
+     "marcosc",
+     "",
+     "https://discourse.wicg.io/t/advertising-to-interest-groups-without-tracking/4565/38",
+     "yes",
+     "n/a",
+     "2020-07-07"
     ]
    ],
    "data": [
@@ -2777,6 +2813,42 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "yes",
      "Date Added": "2020/6/3"
+    },
+    {
+     "Repository": "display-override",
+     "Link": "http://github.com/WICG/display-override",
+     "Potential WG": "WebAppsWG",
+     "Next Step": "",
+     "Initiator": "various",
+     "Date last reviewed": "",
+     "Discourse thread": "https://discourse.wicg.io/t/proposal-title-bar-customization-for-web-apps/",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2020-07-06"
+    },
+    {
+     "Repository": "turtledove",
+     "Link": "https://github.com/wicg/turtledove",
+     "Potential WG": "WebAppSec??",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Date last reviewed": "",
+     "Discourse thread": "https://discourse.wicg.io/t/advertising-to-interest-groups-without-tracking/4565/",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2020-07-06"
+    },
+    {
+     "Repository": "sparrow",
+     "Link": "https://github.com/WICG/sparrow",
+     "Potential WG": "??",
+     "Next Step": "",
+     "Initiator": "marcosc",
+     "Date last reviewed": "",
+     "Discourse thread": "https://discourse.wicg.io/t/advertising-to-interest-groups-without-tracking/4565/38",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "n/a",
+     "Date Added": "2020-07-07"
     }
    ]
   },
