@@ -1448,6 +1448,27 @@
      "",
      "",
      "Configure availability of the \"window overlay\" (top UI) in OS with overlapping window management UIs"
+    ],
+    [
+     "WebID",
+     "https://github.com/WICG/WebID/",
+     "WebAppSec??",
+     "",
+     "cwilso",
+     "",
+     "https://discourse.wicg.io/t/proposal-webid-privacy-preserving-federated-sign-in-api/4661/4",
+     "yes",
+     "",
+     "2020-07-23"
+    ],
+    [
+     "raw-sockets",
+     "https://github.com/WICG/raw-sockets",
+     "??",
+     "",
+     "cwilso",
+     "",
+     "https://discourse.wicg.io/t/filling-the-remaining-gap-between-websocket-webrtc-and-webtranspor/4366/7"
     ]
    ],
    "data": [
@@ -2879,6 +2900,27 @@
      "Shipping in": "",
      "Mozilla position": "",
      "Description": "Configure availability of the \"window overlay\" (top UI) in OS with overlapping window management UIs"
+    },
+    {
+     "Repository": "WebID",
+     "Link": "https://github.com/WICG/WebID/",
+     "Potential WG": "WebAppSec??",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Date last reviewed": "",
+     "Discourse thread": "https://discourse.wicg.io/t/proposal-webid-privacy-preserving-federated-sign-in-api/4661/4",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2020-07-23"
+    },
+    {
+     "Repository": "raw-sockets",
+     "Link": "https://github.com/WICG/raw-sockets",
+     "Potential WG": "??",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Date last reviewed": "",
+     "Discourse thread": "https://discourse.wicg.io/t/filling-the-remaining-gap-between-websocket-webrtc-and-webtranspor/4366/7"
     }
    ]
   },
