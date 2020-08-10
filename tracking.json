@@ -1469,6 +1469,18 @@
      "cwilso",
      "",
      "https://discourse.wicg.io/t/filling-the-remaining-gap-between-websocket-webrtc-and-webtranspor/4366/7"
+    ],
+    [
+     "storage-buckets",
+     "https://github.com/WICG/storage-buckets",
+     "WebAppsWG??",
+     "",
+     "cwilso",
+     "",
+     "https://discourse.wicg.io/t/proposal-storage-buckets/4710",
+     "yes",
+     "yes",
+     "2020-08-06"
     ]
    ],
    "data": [
@@ -2921,6 +2933,18 @@
      "Initiator": "cwilso",
      "Date last reviewed": "",
      "Discourse thread": "https://discourse.wicg.io/t/filling-the-remaining-gap-between-websocket-webrtc-and-webtranspor/4366/7"
+    },
+    {
+     "Repository": "storage-buckets",
+     "Link": "https://github.com/WICG/storage-buckets",
+     "Potential WG": "WebAppsWG??",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Date last reviewed": "",
+     "Discourse thread": "https://discourse.wicg.io/t/proposal-storage-buckets/4710",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2020-08-06"
     }
    ]
   },
