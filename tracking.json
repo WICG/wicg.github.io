@@ -6,6 +6,7 @@
    "headerValues": [
     "Repository",
     "Link",
+    "Category",
     "Potential WG",
     "Next Step",
     "Initiator",
@@ -24,6 +25,7 @@
     [
      "aom",
      "https://github.com/WICG/aom",
+     "",
      "ARIA WG",
      "",
      "alice",
@@ -40,6 +42,7 @@
     [
      "https://github.com/WICG/accessible-loading-and-searching-of-content",
      "https://github.com/WICG/accessible-loading-and-searching-of-content",
+     "",
      "ARIA WG",
      "",
      "travis",
@@ -56,6 +59,7 @@
     [
      "audio-focus",
      "https://github.com/WICG/audio-focus",
+     "",
      "Media WG",
      "",
      "mounir",
@@ -70,6 +74,7 @@
     [
      "background-fetch",
      "https://github.com/WICG/background-fetch",
+     "",
      "SW WG or WHATWG",
      "Potential to upstream to SW WG",
      "Jake",
@@ -86,6 +91,7 @@
     [
      "BackgroundSync",
      "https://github.com/WICG/BackgroundSync",
+     "",
      "SW WG",
      "Working through Privacy concerns",
      "",
@@ -102,6 +108,7 @@
     [
      "canvas-color-space",
      "https://github.com/WICG/canvas-color-space",
+     "",
      "WHATWG?",
      "We pinged people agian",
      "",
@@ -118,6 +125,7 @@
     [
      "https://github.com/WICG/change-password-url",
      "https://github.com/WICG/change-password-url",
+     "",
      "WebAppSec?",
      "Looks like Web Apps sec is taking it",
      "",
@@ -132,6 +140,7 @@
     [
      "https://github.com/WICG/construct-stylesheets",
      "https://github.com/WICG/construct-stylesheets",
+     "",
      "CSSWG",
      "Mozilla poised to implement",
      "",
@@ -148,6 +157,7 @@
     [
      "https://github.com/WICG/contact-api",
      "https://github.com/WICG/contact-api",
+     "",
      "DAS (or WebApps?)",
      "",
      "yoav",
@@ -167,6 +177,7 @@
      "",
      "",
      "",
+     "",
      "12/12/2019",
      "",
      "yes",
@@ -175,6 +186,7 @@
     [
      "controls-list",
      "https://github.com/WICG/controls-list",
+     "",
      "MadiaWG",
      "",
      "",
@@ -191,6 +203,7 @@
     [
      "cookie-store",
      "https://github.com/WICG/cookie-store",
+     "",
      "WebAppsWG",
      "",
      "",
@@ -207,6 +220,7 @@
     [
      "cors-rfc1918",
      "https://github.com/WICG/cors-rfc1918",
+     "",
      "WebAppSec?",
      "",
      "",
@@ -218,6 +232,7 @@
     [
      "cq-usecases",
      "https://github.com/WICG/cq-usecases",
+     "",
      "",
      "",
      "",
@@ -237,6 +252,7 @@
      "",
      "",
      "",
+     "",
      "4/6/2020",
      "",
      "yes",
@@ -250,6 +266,7 @@
     [
      "https://github.com/WICG/datacue",
      "https://github.com/WICG/DataCue",
+     "",
      "",
      "",
      "cwilso",
@@ -271,6 +288,7 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a",
      "",
@@ -282,6 +300,7 @@
     [
      "directory-upload",
      "https://github.com/WICG/directory-upload",
+     "",
      "HTML?",
      "",
      "",
@@ -298,6 +317,7 @@
     [
      "display-locking",
      "https://github.com/WICG/display-locking",
+     "",
      "WebAppsWG?",
      "",
      "",
@@ -314,6 +334,7 @@
     [
      "Element-Timing",
      "https://github.com/WICG/Element-Timing",
+     "",
      "WebPerfWG",
      "",
      "",
@@ -330,6 +351,7 @@
     [
      "encrypted-media",
      "https://github.com/WICG/encrypted-media",
+     "",
      "MediaWG",
      "",
      "",
@@ -346,6 +368,7 @@
     [
      "encrypted-media-encryption-scheme",
      "https://github.com/WICG/encrypted-media-encryption-scheme",
+     "",
      "MediaWG",
      "",
      "",
@@ -362,6 +385,7 @@
     [
      "entries-api",
      "https://github.com/WICG/entries-api",
+     "",
      "WebAppsWG",
      "",
      "",
@@ -378,6 +402,7 @@
     [
      "event-timing",
      "https://github.com/WICG/event-timing",
+     "",
      "WebPerfWG",
      "",
      "",
@@ -394,6 +419,7 @@
     [
      "file-handling",
      "https://github.com/WICG/file-handling",
+     "",
      "WebAppsWG",
      "",
      "",
@@ -410,6 +436,7 @@
     [
      "focus-visible",
      "https://github.com/WICG/focus-visible",
+     "",
      "CSS?",
      "",
      "",
@@ -427,6 +454,7 @@
      "frame-timing",
      "https://github.com/WICG/frame-timing",
      "",
+     "",
      "Might become animation smoothness timing in new repo",
      "",
      "",
@@ -442,6 +470,7 @@
     [
      "get-installed-related-apps",
      "https://github.com/WICG/get-installed-related-apps",
+     "",
      "WebAppsWG",
      "",
      "",
@@ -456,6 +485,7 @@
     [
      "hdcp-detection",
      "https://github.com/WICG/hdcp-detection",
+     "",
      "",
      "",
      "",
@@ -477,6 +507,7 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a",
      "",
@@ -488,6 +519,7 @@
     [
      "indexed-db-observers",
      "https://github.com/WICG/indexed-db-observers",
+     "",
      "WebAppWG",
      "",
      "",
@@ -509,6 +541,7 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a",
      "",
@@ -520,6 +553,7 @@
     [
      "https://github.com/WICG/input-for-workers",
      "https://github.com/WICG/input-for-workers",
+     "",
      "",
      "",
      "yoav",
@@ -541,6 +575,7 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a",
      "",
@@ -557,6 +592,7 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a",
      "",
@@ -568,6 +604,7 @@
     [
      "is-input-pending",
      "https://github.com/WICG/is-input-pending",
+     "",
      "WebPerfWG",
      "",
      "",
@@ -579,6 +616,7 @@
     [
      "https://github.com/WICG/js-self-profiling",
      "https://github.com/WICG/js-self-profiling",
+     "",
      "WebPerfWG",
      "",
      "yoav",
@@ -600,6 +638,7 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a",
      "",
@@ -611,6 +650,7 @@
     [
      "kv-storage",
      "https://github.com/WICG/kv-storage",
+     "",
      "WebAppsWG",
      "",
      "",
@@ -627,6 +667,7 @@
     [
      "https://github.com/WICG/LargestContentfulPaint",
      "https://github.com/WICG/LargestContentfulPaint",
+     "",
      "WebPerfWG",
      "",
      "yoav",
@@ -641,6 +682,7 @@
     [
      "https://github.com/WICG/layout-instability",
      "https://github.com/WICG/Layout Instability",
+     "",
      "WebPerfWG",
      "",
      "yoav",
@@ -653,6 +695,7 @@
     [
      "https://github.com/WICG/main-thread-scheduling",
      "https://github.com/WICG/main-thread-scheduling",
+     "",
      "WebPerfWG",
      "",
      "yoav",
@@ -665,6 +708,7 @@
     [
      "netinfo",
      "https://github.com/WICG/netinfo",
+     "",
      "DAS",
      "",
      "",
@@ -676,6 +720,7 @@
     [
      "https://github.com/WICG/open-ui",
      "https://github.com/WICG/open-ui",
+     "",
      "",
      "",
      "Greg Whitworth ",
@@ -697,12 +742,14 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a"
     ],
     [
      "https://github.com/WICG/overscroll-scrollend-events",
      "https://github.com/WICG/overscroll-scrollend-events",
+     "",
      "",
      "",
      "yoav",
@@ -715,6 +762,7 @@
     [
      "page-lifecycle",
      "https://github.com/WICG/page-lifecycle",
+     "",
      "WebPerfWG",
      "",
      "",
@@ -731,6 +779,7 @@
     [
      "permissions-request",
      "https://github.com/WICG/permissions-request",
+     "",
      "WebAppSec",
      "",
      "",
@@ -747,6 +796,7 @@
     [
      "permissions-revoke",
      "https://github.com/WICG/permissions-revoke",
+     "",
      "WebAppSec",
      "",
      "",
@@ -768,6 +818,7 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a",
      "",
@@ -779,6 +830,7 @@
     [
      "priority-hints",
      "https://github.com/WICG/priority-hints",
+     "",
      "WebPerfWG",
      "",
      "",
@@ -800,12 +852,14 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a"
     ],
     [
      "https://github.com/WICG/requestPostAnimationFrame",
      "https://github.com/WICG/requestPostAnimationFrame",
+     "",
      "HTML",
      "",
      "yoav",
@@ -818,6 +872,7 @@
     [
      "https://github.com/WICG/savedata",
      "https://github.com/WICG/savedata",
+     "",
      "",
      "",
      "yoav",
@@ -836,6 +891,7 @@
      "https://github.com/WICG/Scroll-to-text-fragment",
      "",
      "",
+     "",
      "yoav",
      "",
      "",
@@ -848,6 +904,7 @@
     [
      "serial",
      "https://github.com/WICG/serial",
+     "",
      "DAS",
      "",
      "",
@@ -864,6 +921,7 @@
     [
      "shape-detection-api",
      "https://github.com/WICG/shape-detection-api",
+     "",
      "DAS",
      "",
      "",
@@ -885,6 +943,7 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a",
      "",
@@ -896,6 +955,7 @@
     [
      "sw-launch",
      "https://github.com/WICG/sw-launch",
+     "",
      "ServiceWorkerWG",
      "",
      "",
@@ -917,6 +977,7 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a",
      "",
@@ -928,6 +989,7 @@
     [
      "ua-client-hints",
      "https://github.com/WICG/ua-client-hints",
+     "",
      "",
      "",
      "",
@@ -946,6 +1008,7 @@
      "https://github.com/WICG/Virtual Scroller",
      "",
      "",
+     "",
      "yoav",
      "",
      "",
@@ -956,6 +1019,7 @@
     [
      "visual-viewport",
      "https://github.com/WICG/visual-viewport",
+     "",
      "",
      "",
      "",
@@ -977,6 +1041,7 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a",
      "",
@@ -990,6 +1055,7 @@
      "https://github.com/WICG/web-transport",
      "",
      "",
+     "",
      "yoav",
      "",
      "",
@@ -1000,6 +1066,7 @@
     [
      "https://github.com/WICG/webhid",
      "https://github.com/WICG/WebHID",
+     "",
      "",
      "",
      "cwilso",
@@ -1021,6 +1088,7 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a",
      "",
@@ -1032,6 +1100,7 @@
     [
      "webusb",
      "https://github.com/WICG/webusb",
+     "",
      "DAS",
      "",
      "",
@@ -1053,6 +1122,7 @@
      "",
      "",
      "",
+     "",
      "yes",
      "n/a",
      "",
@@ -1064,6 +1134,7 @@
     [
      "web-codecs",
      "https://github.com/WICG/native-file-system",
+     "",
      "",
      "",
      "yoav",
@@ -1082,6 +1153,7 @@
      "https://github.com/WICG/media-latency-hint",
      "",
      "",
+     "",
      "cwilso",
      "",
      "https://discourse.wicg.io/t/proposal-hint-attribute-on-htmlmediaelement-to-configure-rendering-latency/3567/9",
@@ -1092,6 +1164,7 @@
     [
      "https://github.com/WICG/trust-token-api",
      "https://github.com/WICG/trust-token-api",
+     "",
      "",
      "",
      "cwilso",
@@ -1106,6 +1179,7 @@
      "https://github.com/WICG/raw-clipboard-access",
      "",
      "",
+     "",
      "yoav",
      "",
      "https://discourse.wicg.io/t/proposal-raw-clipboard-access/3979",
@@ -1118,6 +1192,7 @@
     [
      "https://github.com/WICG/compression",
      "https://github.com/WICG/compression",
+     "",
      "",
      "",
      "yoav",
@@ -1136,6 +1211,7 @@
      "https://github.com/WICG/video-editing",
      "",
      "",
+     "",
      "yoav",
      "",
      "",
@@ -1146,6 +1222,7 @@
     [
      "https://github.com/WICG/custom-state-pseudo-class",
      "https://github.com/WICG/custom-state-pseudo-class",
+     "",
      "",
      "",
      "cwilso",
@@ -1162,6 +1239,7 @@
      "",
      "",
      "",
+     "",
      "https://discourse.wicg.io/t/proposal-system-keyboard-lock-api/1594",
      "yes",
      "n/a"
@@ -1171,6 +1249,7 @@
      "https://github.com/WICG/crash-reporting",
      "",
      "",
+     "",
      "cwilso",
      "",
      "https://discourse.wicg.io/t/proposal-crash-deprecation-intervention-reporting/4144",
@@ -1181,6 +1260,7 @@
     [
      "https://github.com/WICG/intervention-reporting",
      "https://github.com/WICG/intervention-reporting",
+     "",
      "",
      "",
      "cwilso",
@@ -1195,6 +1275,7 @@
      "https://github.com/WICG/deprecation-reporting",
      "",
      "",
+     "",
      "cwilso",
      "",
      "https://discourse.wicg.io/t/proposal-crash-deprecation-intervention-reporting/4144",
@@ -1205,6 +1286,7 @@
     [
      "https://github.com/WICG/image-output",
      "https://github.com/WICG/image-output",
+     "",
      "",
      "",
      "Ilya",
@@ -1223,6 +1305,7 @@
      "https://github.com/WICG/client-hints-infrastructure",
      "",
      "",
+     "",
      "yoav",
      "",
      "https://discourse.wicg.io/t/client-hints-infrastructure/4127/3",
@@ -1239,6 +1322,7 @@
      "https://github.com/WICG/periodic-background-sync",
      "",
      "",
+     "",
      "yoav",
      "",
      "https://discourse.wicg.io/t/proposal-periodic-background-sync/3530/4",
@@ -1251,6 +1335,7 @@
      "https://github.com/WICG/video-raf/",
      "",
      "",
+     "",
      "cwilso",
      "",
      "https://discourse.wicg.io/t/proposal-video-requestanimationframe/3691",
@@ -1261,6 +1346,7 @@
     [
      "https://github.com/WICG/performance-measure-memory",
      "https://github.com/WICG/performance-measure-memory",
+     "",
      "WebPerfWG",
      "",
      "yoav",
@@ -1279,6 +1365,7 @@
      "https://github.com/WICG/origin-isolation",
      "",
      "",
+     "",
      "cwilso",
      "",
      "https://discourse.wicg.io/t/proposal-origin-isolation-take-2/4258",
@@ -1291,6 +1378,7 @@
     [
      "web-otp",
      "https://github.com/WICG/WebOTP",
+     "",
      "",
      "",
      "cwilso",
@@ -1307,6 +1395,7 @@
     [
      "media-feeds-api",
      "https://github.com/WICG/media-feeds-api",
+     "",
      "MediaWG",
      "",
      "beccahughes",
@@ -1319,6 +1408,7 @@
     [
      "beforeinstallprompt",
      "https://github.com/WICG/beforeinstallprompt",
+     "",
      "",
      "",
      "mgiuca",
@@ -1337,6 +1427,7 @@
      "https://github.com/WICG/cross-origin-embedder-policy",
      "",
      "",
+     "",
      "yoav",
      "",
      "https://discourse.wicg.io/t/proposal-cross-origin-embedder-policy/4275",
@@ -1348,6 +1439,7 @@
     [
      "conversion-measurement-api",
      "https://github.com/WICG/conversion-measurement-api",
+     "",
      "",
      "",
      "cwilso",
@@ -1362,6 +1454,7 @@
      "https://github.com/WICG/sms-one-time-codes",
      "",
      "",
+     "",
      "cwilso",
      "",
      "https://github.com/WICG/admin/issues/99",
@@ -1374,6 +1467,7 @@
      "https://github.com/WICG/local-font-access",
      "",
      "",
+     "",
      "cwilso",
      "",
      "https://discourse.wicg.io/t/api-to-get-list-of-available-fonts/1197",
@@ -1384,6 +1478,7 @@
     [
      "https://github.com/WICG/content-index",
      "https://github.com/WICG/content-index",
+     "",
      "",
      "",
      "yoav",
@@ -1402,6 +1497,7 @@
      "https://github.com/WICG/idle-detection",
      "",
      "",
+     "",
      "cwilso",
      "",
      "https://discourse.wicg.io/t/idle-detection-api/2959/4",
@@ -1412,6 +1508,7 @@
     [
      "digital-goods",
      "https://github.com/WICG/digital-goods/",
+     "",
      "WebPayments",
      "",
      "mgiuca",
@@ -1424,6 +1521,7 @@
     [
      "webmonetization",
      "https://github.com/WICG/webmonetization",
+     "",
      "WebPayments",
      "",
      "adrianhopebailie ",
@@ -1438,6 +1536,7 @@
     [
      "https://github.com/WICG/pwa-url-handler",
      "https://github.com/WICG/pwa-url-handler",
+     "",
      "WebAppsWG",
      "",
      "travisleithead",
@@ -1452,6 +1551,7 @@
      "https://github.com/WICG/first-party-sets",
      "",
      "",
+     "",
      "cwilso",
      "",
      "https://discourse.wicg.io/t/proposal-first-party-sets/3331",
@@ -1462,6 +1562,7 @@
     [
      "display-override",
      "http://github.com/WICG/display-override",
+     "PWA",
      "WebAppsWG",
      "",
      "various",
@@ -1474,6 +1575,7 @@
     [
      "turtledove",
      "https://github.com/wicg/turtledove",
+     "Privacy/Ads",
      "WebAppSec??",
      "",
      "yoav",
@@ -1486,6 +1588,7 @@
     [
      "sparrow",
      "https://github.com/WICG/sparrow",
+     "Privacy/Ads",
      "??",
      "",
      "marcosc",
@@ -1498,6 +1601,7 @@
     [
      "https://github.com/WICG/window-controls-overlay",
      "https://github.com/WICG/window-controls-overlay",
+     "PWA",
      "WebAppsWG",
      "continue iterating on explainer",
      "various",
@@ -1514,6 +1618,7 @@
     [
      "WebID",
      "https://github.com/WICG/WebID/",
+     "Authentication",
      "WebAppSec??",
      "",
      "cwilso",
@@ -1526,6 +1631,7 @@
     [
      "raw-sockets",
      "https://github.com/WICG/raw-sockets",
+     "Networking",
      "??",
      "",
      "cwilso",
@@ -1535,6 +1641,7 @@
     [
      "storage-buckets",
      "https://github.com/WICG/storage-buckets",
+     "Storage",
      "WebAppsWG??",
      "",
      "cwilso",
@@ -1549,6 +1656,7 @@
     {
      "Repository": "aom",
      "Link": "https://github.com/WICG/aom",
+     "Category": "",
      "Potential WG": "ARIA WG",
      "Next Step": "",
      "Initiator": "alice",
@@ -1564,6 +1672,7 @@
     {
      "Repository": "accessible-loading-and-searching-of-content",
      "Link": "https://github.com/WICG/accessible-loading-and-searching-of-content",
+     "Category": "",
      "Potential WG": "ARIA WG",
      "Next Step": "",
      "Initiator": "travis",
@@ -1579,6 +1688,7 @@
     {
      "Repository": "audio-focus",
      "Link": "https://github.com/WICG/audio-focus",
+     "Category": "",
      "Potential WG": "Media WG",
      "Next Step": "",
      "Initiator": "mounir",
@@ -1593,6 +1703,7 @@
     {
      "Repository": "background-fetch",
      "Link": "https://github.com/WICG/background-fetch",
+     "Category": "",
      "Potential WG": "SW WG or WHATWG",
      "Next Step": "Potential to upstream to SW WG",
      "Initiator": "Jake",
@@ -1608,6 +1719,7 @@
     {
      "Repository": "BackgroundSync",
      "Link": "https://github.com/WICG/BackgroundSync",
+     "Category": "",
      "Potential WG": "SW WG",
      "Next Step": "Working through Privacy concerns",
      "Initiator": "",
@@ -1623,6 +1735,7 @@
     {
      "Repository": "canvas-color-space",
      "Link": "https://github.com/WICG/canvas-color-space",
+     "Category": "",
      "Potential WG": "WHATWG?",
      "Next Step": "We pinged people agian",
      "Initiator": "",
@@ -1638,6 +1751,7 @@
     {
      "Repository": "change-password-url",
      "Link": "https://github.com/WICG/change-password-url",
+     "Category": "",
      "Potential WG": "WebAppSec?",
      "Next Step": "Looks like Web Apps sec is taking it",
      "Initiator": "",
@@ -1652,6 +1766,7 @@
     {
      "Repository": "construct-stylesheets",
      "Link": "https://github.com/WICG/construct-stylesheets",
+     "Category": "",
      "Potential WG": "CSSWG",
      "Next Step": "Mozilla poised to implement",
      "Initiator": "",
@@ -1667,6 +1782,7 @@
     {
      "Repository": "contact-api",
      "Link": "https://github.com/WICG/contact-api",
+     "Category": "",
      "Potential WG": "DAS (or WebApps?)",
      "Next Step": "",
      "Initiator": "yoav",
@@ -1682,6 +1798,7 @@
     {
      "Repository": "container-queries",
      "Link": "https://github.com/WICG/container-queries",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -1693,6 +1810,7 @@
     {
      "Repository": "controls-list",
      "Link": "https://github.com/WICG/controls-list",
+     "Category": "",
      "Potential WG": "MadiaWG",
      "Next Step": "",
      "Initiator": "",
@@ -1708,6 +1826,7 @@
     {
      "Repository": "cookie-store",
      "Link": "https://github.com/WICG/cookie-store",
+     "Category": "",
      "Potential WG": "WebAppsWG",
      "Next Step": "",
      "Initiator": "",
@@ -1723,6 +1842,7 @@
     {
      "Repository": "cors-rfc1918",
      "Link": "https://github.com/WICG/cors-rfc1918",
+     "Category": "",
      "Potential WG": "WebAppSec?",
      "Next Step": "",
      "Initiator": "",
@@ -1734,6 +1854,7 @@
     {
      "Repository": "cq-usecases",
      "Link": "https://github.com/WICG/cq-usecases",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -1749,6 +1870,7 @@
     {
      "Repository": "CSS-Parser-API",
      "Link": "https://github.com/WICG/CSS-Parser-API",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -1764,6 +1886,7 @@
     {
      "Repository": "DataCue",
      "Link": "https://github.com/WICG/DataCue",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -1779,6 +1902,7 @@
     {
      "Repository": "devtools-protocol",
      "Link": "https://github.com/WICG/devtools-protocol",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -1794,6 +1918,7 @@
     {
      "Repository": "directory-upload",
      "Link": "https://github.com/WICG/directory-upload",
+     "Category": "",
      "Potential WG": "HTML?",
      "Next Step": "",
      "Initiator": "",
@@ -1809,6 +1934,7 @@
     {
      "Repository": "display-locking",
      "Link": "https://github.com/WICG/display-locking",
+     "Category": "",
      "Potential WG": "WebAppsWG?",
      "Next Step": "",
      "Initiator": "",
@@ -1824,6 +1950,7 @@
     {
      "Repository": "Element-Timing",
      "Link": "https://github.com/WICG/Element-Timing",
+     "Category": "",
      "Potential WG": "WebPerfWG",
      "Next Step": "",
      "Initiator": "",
@@ -1839,6 +1966,7 @@
     {
      "Repository": "encrypted-media",
      "Link": "https://github.com/WICG/encrypted-media",
+     "Category": "",
      "Potential WG": "MediaWG",
      "Next Step": "",
      "Initiator": "",
@@ -1854,6 +1982,7 @@
     {
      "Repository": "encrypted-media-encryption-scheme",
      "Link": "https://github.com/WICG/encrypted-media-encryption-scheme",
+     "Category": "",
      "Potential WG": "MediaWG",
      "Next Step": "",
      "Initiator": "",
@@ -1869,6 +1998,7 @@
     {
      "Repository": "entries-api",
      "Link": "https://github.com/WICG/entries-api",
+     "Category": "",
      "Potential WG": "WebAppsWG",
      "Next Step": "",
      "Initiator": "",
@@ -1884,6 +2014,7 @@
     {
      "Repository": "event-timing",
      "Link": "https://github.com/WICG/event-timing",
+     "Category": "",
      "Potential WG": "WebPerfWG",
      "Next Step": "",
      "Initiator": "",
@@ -1899,6 +2030,7 @@
     {
      "Repository": "file-handling",
      "Link": "https://github.com/WICG/file-handling",
+     "Category": "",
      "Potential WG": "WebAppsWG",
      "Next Step": "",
      "Initiator": "",
@@ -1914,6 +2046,7 @@
     {
      "Repository": "focus-visible",
      "Link": "https://github.com/WICG/focus-visible",
+     "Category": "",
      "Potential WG": "CSS?",
      "Next Step": "",
      "Initiator": "",
@@ -1929,6 +2062,7 @@
     {
      "Repository": "frame-timing",
      "Link": "https://github.com/WICG/frame-timing",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "Might become animation smoothness timing in new repo",
      "Initiator": "",
@@ -1944,6 +2078,7 @@
     {
      "Repository": "get-installed-related-apps",
      "Link": "https://github.com/WICG/get-installed-related-apps",
+     "Category": "",
      "Potential WG": "WebAppsWG",
      "Next Step": "",
      "Initiator": "",
@@ -1958,6 +2093,7 @@
     {
      "Repository": "hdcp-detection",
      "Link": "https://github.com/WICG/hdcp-detection",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -1973,6 +2109,7 @@
     {
      "Repository": "import-maps",
      "Link": "https://github.com/WICG/import-maps",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -1988,6 +2125,7 @@
     {
      "Repository": "indexed-db-observers",
      "Link": "https://github.com/WICG/indexed-db-observers",
+     "Category": "",
      "Potential WG": "WebAppWG",
      "Next Step": "",
      "Initiator": "",
@@ -2003,6 +2141,7 @@
     {
      "Repository": "inert",
      "Link": "https://github.com/WICG/inert",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2018,6 +2157,7 @@
     {
      "Repository": "input-for-workers",
      "Link": "https://github.com/WICG/input-for-workers",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2033,6 +2173,7 @@
     {
      "Repository": "Input-device-capabilities",
      "Link": "https://github.com/WICG/Input-device-capabilities",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2048,6 +2189,7 @@
     {
      "Repository": "interventions",
      "Link": "https://github.com/WICG/interventions",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2063,6 +2205,7 @@
     {
      "Repository": "is-input-pending",
      "Link": "https://github.com/WICG/is-input-pending",
+     "Category": "",
      "Potential WG": "WebPerfWG",
      "Next Step": "",
      "Initiator": "",
@@ -2074,6 +2217,7 @@
     {
      "Repository": "js-self-profiling",
      "Link": "https://github.com/WICG/js-self-profiling",
+     "Category": "",
      "Potential WG": "WebPerfWG",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2089,6 +2233,7 @@
     {
      "Repository": "keyboard-map",
      "Link": "https://github.com/WICG/keyboard-map",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2104,6 +2249,7 @@
     {
      "Repository": "kv-storage",
      "Link": "https://github.com/WICG/kv-storage",
+     "Category": "",
      "Potential WG": "WebAppsWG",
      "Next Step": "",
      "Initiator": "",
@@ -2119,6 +2265,7 @@
     {
      "Repository": "LargestContentfulPaint",
      "Link": "https://github.com/WICG/LargestContentfulPaint",
+     "Category": "",
      "Potential WG": "WebPerfWG",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2133,6 +2280,7 @@
     {
      "Repository": "Layout Instability",
      "Link": "https://github.com/WICG/Layout Instability",
+     "Category": "",
      "Potential WG": "WebPerfWG",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2145,6 +2293,7 @@
     {
      "Repository": "main-thread-scheduling",
      "Link": "https://github.com/WICG/main-thread-scheduling",
+     "Category": "",
      "Potential WG": "WebPerfWG",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2157,6 +2306,7 @@
     {
      "Repository": "netinfo",
      "Link": "https://github.com/WICG/netinfo",
+     "Category": "",
      "Potential WG": "DAS",
      "Next Step": "",
      "Initiator": "",
@@ -2168,6 +2318,7 @@
     {
      "Repository": "open-ui",
      "Link": "https://github.com/WICG/open-ui",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "Greg Whitworth ",
@@ -2183,6 +2334,7 @@
     {
      "Repository": "origin-policy",
      "Link": "https://github.com/WICG/origin-policy",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2194,6 +2346,7 @@
     {
      "Repository": "overscroll-scrollend-events",
      "Link": "https://github.com/WICG/overscroll-scrollend-events",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2206,6 +2359,7 @@
     {
      "Repository": "page-lifecycle",
      "Link": "https://github.com/WICG/page-lifecycle",
+     "Category": "",
      "Potential WG": "WebPerfWG",
      "Next Step": "",
      "Initiator": "",
@@ -2221,6 +2375,7 @@
     {
      "Repository": "permissions-request",
      "Link": "https://github.com/WICG/permissions-request",
+     "Category": "",
      "Potential WG": "WebAppSec",
      "Next Step": "",
      "Initiator": "",
@@ -2236,6 +2391,7 @@
     {
      "Repository": "permissions-revoke",
      "Link": "https://github.com/WICG/permissions-revoke",
+     "Category": "",
      "Potential WG": "WebAppSec",
      "Next Step": "",
      "Initiator": "",
@@ -2251,6 +2407,7 @@
     {
      "Repository": "portals",
      "Link": "https://github.com/WICG/portals",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2266,6 +2423,7 @@
     {
      "Repository": "priority-hints",
      "Link": "https://github.com/WICG/priority-hints",
+     "Category": "",
      "Potential WG": "WebPerfWG",
      "Next Step": "",
      "Initiator": "",
@@ -2281,6 +2439,7 @@
     {
      "Repository": "purification",
      "Link": "https://github.com/WICG/purification",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2292,6 +2451,7 @@
     {
      "Repository": "requestPostAnimationFrame",
      "Link": "https://github.com/WICG/requestPostAnimationFrame",
+     "Category": "",
      "Potential WG": "HTML",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2304,6 +2464,7 @@
     {
      "Repository": "savedata",
      "Link": "https://github.com/WICG/savedata",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2319,6 +2480,7 @@
     {
      "Repository": "Scroll-to-text-fragment",
      "Link": "https://github.com/WICG/Scroll-to-text-fragment",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2333,6 +2495,7 @@
     {
      "Repository": "serial",
      "Link": "https://github.com/WICG/serial",
+     "Category": "",
      "Potential WG": "DAS",
      "Next Step": "",
      "Initiator": "",
@@ -2348,6 +2511,7 @@
     {
      "Repository": "shape-detection-api",
      "Link": "https://github.com/WICG/shape-detection-api",
+     "Category": "",
      "Potential WG": "DAS",
      "Next Step": "",
      "Initiator": "",
@@ -2363,6 +2527,7 @@
     {
      "Repository": "spatial-navigation",
      "Link": "https://github.com/WICG/spatial-navigation",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2378,6 +2543,7 @@
     {
      "Repository": "sw-launch",
      "Link": "https://github.com/WICG/sw-launch",
+     "Category": "",
      "Potential WG": "ServiceWorkerWG",
      "Next Step": "",
      "Initiator": "",
@@ -2393,6 +2559,7 @@
     {
      "Repository": "trusted-types",
      "Link": "https://github.com/WICG/trusted-types",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2408,6 +2575,7 @@
     {
      "Repository": "ua-client-hints",
      "Link": "https://github.com/WICG/ua-client-hints",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2423,6 +2591,7 @@
     {
      "Repository": "Virtual Scroller",
      "Link": "https://github.com/WICG/Virtual Scroller",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2435,6 +2604,7 @@
     {
      "Repository": "visual-viewport",
      "Link": "https://github.com/WICG/visual-viewport",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2450,6 +2620,7 @@
     {
      "Repository": "web-locks",
      "Link": "https://github.com/WICG/web-locks",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2465,6 +2636,7 @@
     {
      "Repository": "web-transport",
      "Link": "https://github.com/WICG/web-transport",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2477,6 +2649,7 @@
     {
      "Repository": "WebHID",
      "Link": "https://github.com/WICG/WebHID",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2492,6 +2665,7 @@
     {
      "Repository": "webpackage",
      "Link": "https://github.com/WICG/webpackage",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2507,6 +2681,7 @@
     {
      "Repository": "webusb",
      "Link": "https://github.com/WICG/webusb",
+     "Category": "",
      "Potential WG": "DAS",
      "Next Step": "",
      "Initiator": "",
@@ -2522,6 +2697,7 @@
     {
      "Repository": "native-file-system",
      "Link": "https://github.com/WICG/native-file-system",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2537,6 +2713,7 @@
     {
      "Repository": "web-codecs",
      "Link": "https://github.com/WICG/native-file-system",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2552,6 +2729,7 @@
     {
      "Repository": "media-latency-hint",
      "Link": "https://github.com/WICG/media-latency-hint",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2564,6 +2742,7 @@
     {
      "Repository": "trust-token-api",
      "Link": "https://github.com/WICG/trust-token-api",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2576,6 +2755,7 @@
     {
      "Repository": "raw-clipboard-access",
      "Link": "https://github.com/WICG/raw-clipboard-access",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2590,6 +2770,7 @@
     {
      "Repository": "compression",
      "Link": "https://github.com/WICG/compression",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2605,6 +2786,7 @@
     {
      "Repository": "video-editing",
      "Link": "https://github.com/WICG/video-editing",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2617,6 +2799,7 @@
     {
      "Repository": "custom-state-pseudo-class",
      "Link": "https://github.com/WICG/custom-state-pseudo-class",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2629,6 +2812,7 @@
     {
      "Repository": "keyboard-lock",
      "Link": "https://github.com/WICG/keyboard-lock",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "",
@@ -2640,6 +2824,7 @@
     {
      "Repository": "crash-reporting",
      "Link": "https://github.com/WICG/crash-reporting",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2652,6 +2837,7 @@
     {
      "Repository": "intervention-reporting",
      "Link": "https://github.com/WICG/intervention-reporting",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2664,6 +2850,7 @@
     {
      "Repository": "deprecation-reporting",
      "Link": "https://github.com/WICG/deprecation-reporting",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2676,6 +2863,7 @@
     {
      "Repository": "image-output",
      "Link": "https://github.com/WICG/image-output",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "Ilya",
@@ -2691,6 +2879,7 @@
     {
      "Repository": "client-hints-infrastructure",
      "Link": "https://github.com/WICG/client-hints-infrastructure",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2706,6 +2895,7 @@
     {
      "Repository": "periodic-background-sync",
      "Link": "https://github.com/WICG/periodic-background-sync",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2718,6 +2908,7 @@
     {
      "Repository": "video requestAnimationFrame",
      "Link": "https://github.com/WICG/video-raf/",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2730,6 +2921,7 @@
     {
      "Repository": "performance-measure-memory",
      "Link": "https://github.com/WICG/performance-measure-memory",
+     "Category": "",
      "Potential WG": "WebPerfWG",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2745,6 +2937,7 @@
     {
      "Repository": "origin-isolation",
      "Link": "https://github.com/WICG/origin-isolation",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2759,6 +2952,7 @@
     {
      "Repository": "web-otp",
      "Link": "https://github.com/WICG/WebOTP",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2774,6 +2968,7 @@
     {
      "Repository": "media-feeds-api",
      "Link": "https://github.com/WICG/media-feeds-api",
+     "Category": "",
      "Potential WG": "MediaWG",
      "Next Step": "",
      "Initiator": "beccahughes",
@@ -2786,6 +2981,7 @@
     {
      "Repository": "beforeinstallprompt",
      "Link": "https://github.com/WICG/beforeinstallprompt",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "mgiuca",
@@ -2801,6 +2997,7 @@
     {
      "Repository": "cross-origin-embedder-policy",
      "Link": "https://github.com/WICG/cross-origin-embedder-policy",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2814,6 +3011,7 @@
     {
      "Repository": "conversion-measurement-api",
      "Link": "https://github.com/WICG/conversion-measurement-api",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2826,6 +3024,7 @@
     {
      "Repository": "sms-one-time-codes",
      "Link": "https://github.com/WICG/sms-one-time-codes",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2838,6 +3037,7 @@
     {
      "Repository": "local-font-access",
      "Link": "https://github.com/WICG/local-font-access",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2850,6 +3050,7 @@
     {
      "Repository": "content-index",
      "Link": "https://github.com/WICG/content-index",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2865,6 +3066,7 @@
     {
      "Repository": "idle-detection",
      "Link": "https://github.com/WICG/idle-detection",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2877,6 +3079,7 @@
     {
      "Repository": "digital-goods",
      "Link": "https://github.com/WICG/digital-goods/",
+     "Category": "",
      "Potential WG": "WebPayments",
      "Next Step": "",
      "Initiator": "mgiuca",
@@ -2889,6 +3092,7 @@
     {
      "Repository": "webmonetization",
      "Link": "https://github.com/WICG/webmonetization",
+     "Category": "",
      "Potential WG": "WebPayments",
      "Next Step": "",
      "Initiator": "adrianhopebailie ",
@@ -2903,6 +3107,7 @@
     {
      "Repository": "pwa-url-handler",
      "Link": "https://github.com/WICG/pwa-url-handler",
+     "Category": "",
      "Potential WG": "WebAppsWG",
      "Next Step": "",
      "Initiator": "travisleithead",
@@ -2915,6 +3120,7 @@
     {
      "Repository": "first-party-sets",
      "Link": "https://github.com/WICG/first-party-sets",
+     "Category": "",
      "Potential WG": "",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2927,6 +3133,7 @@
     {
      "Repository": "display-override",
      "Link": "http://github.com/WICG/display-override",
+     "Category": "PWA",
      "Potential WG": "WebAppsWG",
      "Next Step": "",
      "Initiator": "various",
@@ -2939,6 +3146,7 @@
     {
      "Repository": "turtledove",
      "Link": "https://github.com/wicg/turtledove",
+     "Category": "Privacy/Ads",
      "Potential WG": "WebAppSec??",
      "Next Step": "",
      "Initiator": "yoav",
@@ -2951,6 +3159,7 @@
     {
      "Repository": "sparrow",
      "Link": "https://github.com/WICG/sparrow",
+     "Category": "Privacy/Ads",
      "Potential WG": "??",
      "Next Step": "",
      "Initiator": "marcosc",
@@ -2963,6 +3172,7 @@
     {
      "Repository": "window-controls-overlay",
      "Link": "https://github.com/WICG/window-controls-overlay",
+     "Category": "PWA",
      "Potential WG": "WebAppsWG",
      "Next Step": "continue iterating on explainer",
      "Initiator": "various",
@@ -2978,6 +3188,7 @@
     {
      "Repository": "WebID",
      "Link": "https://github.com/WICG/WebID/",
+     "Category": "Authentication",
      "Potential WG": "WebAppSec??",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2990,6 +3201,7 @@
     {
      "Repository": "raw-sockets",
      "Link": "https://github.com/WICG/raw-sockets",
+     "Category": "Networking",
      "Potential WG": "??",
      "Next Step": "",
      "Initiator": "cwilso",
@@ -2999,6 +3211,7 @@
     {
      "Repository": "storage-buckets",
      "Link": "https://github.com/WICG/storage-buckets",
+     "Category": "Storage",
      "Potential WG": "WebAppsWG??",
      "Next Step": "",
      "Initiator": "cwilso",
