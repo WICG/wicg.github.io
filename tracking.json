@@ -1637,6 +1637,19 @@
      "yes",
      "yes",
      "2020-08-06"
+    ],
+    [
+     "responsive-image-client-hints",
+     "https://github.com/WICG/responsive-image-client-hints",
+     "Performance",
+     "??",
+     "",
+     "yoav",
+     "",
+     "https://discourse.wicg.io/t/spec-for-responsive-image-client-hints/4706/3",
+     "yes",
+     "",
+     "2020-09-09"
     ]
    ],
    "data": [
@@ -3194,6 +3207,19 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "yes",
      "Date Added": "2020-08-06"
+    },
+    {
+     "Repository": "responsive-image-client-hints",
+     "Link": "https://github.com/WICG/responsive-image-client-hints",
+     "Category": "Performance",
+     "Potential WG": "??",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://discourse.wicg.io/t/spec-for-responsive-image-client-hints/4706/3",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2020-09-09"
     }
    ]
   },
