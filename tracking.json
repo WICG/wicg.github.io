@@ -1650,6 +1650,19 @@
      "yes",
      "",
      "2020-09-09"
+    ],
+    [
+     "https://github.com/WICG/canvas-formatted-text",
+     "https://github.com/WICG/canvas-formatted-text",
+     "Graphics",
+     "WHATWG HTML",
+     "Refine the design; harmonize w/CSS Layout API",
+     "travisleithead",
+     "",
+     "https://github.com/WICG/proposals/issues/3",
+     "yes",
+     "yes",
+     "2020-09-23"
     ]
    ],
    "data": [
@@ -3220,6 +3233,19 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "",
      "Date Added": "2020-09-09"
+    },
+    {
+     "Repository": "canvas-formatted-text",
+     "Link": "https://github.com/WICG/canvas-formatted-text",
+     "Category": "Graphics",
+     "Potential WG": "WHATWG HTML",
+     "Next Step": "Refine the design; harmonize w/CSS Layout API",
+     "Initiator": "travisleithead",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/3",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2020-09-23"
     }
    ]
   },
