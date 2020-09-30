@@ -1116,7 +1116,7 @@
     ],
     [
      "file-system-access",
-     "https://github.com/WICG/native-file-system",
+     "https://github.com/WICG/file-system-access",
      "Sharing",
      "",
      "",
@@ -2709,7 +2709,7 @@
     },
     {
      "Repository": "file-system-access",
-     "Link": "https://github.com/WICG/native-file-system",
+     "Link": "https://github.com/WICG/file-system-access",
      "Category": "Sharing",
      "Potential WG": "",
      "Next Step": "",
