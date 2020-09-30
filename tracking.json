@@ -1115,7 +1115,7 @@
      "Connecting hardware to the web."
     ],
     [
-     "native-file-system",
+     "file-system-access",
      "https://github.com/WICG/native-file-system",
      "Sharing",
      "",
@@ -1133,7 +1133,7 @@
     ],
     [
      "web-codecs",
-     "https://github.com/WICG/native-file-system",
+     "https://github.com/WICG/file-system-access",
      "Media",
      "",
      "",
@@ -2708,7 +2708,7 @@
      "Description": "Connecting hardware to the web."
     },
     {
-     "Repository": "native-file-system",
+     "Repository": "file-system-access",
      "Link": "https://github.com/WICG/native-file-system",
      "Category": "Sharing",
      "Potential WG": "",
@@ -2725,7 +2725,7 @@
     },
     {
      "Repository": "web-codecs",
-     "Link": "https://github.com/WICG/native-file-system",
+     "Link": "https://github.com/WICG/file-system-access",
      "Category": "Media",
      "Potential WG": "",
      "Next Step": "",
