@@ -1663,6 +1663,19 @@
      "yes",
      "yes",
      "2020-09-23"
+    ],
+    [
+     "https://github.com/WICG/urlpattern",
+     "https://github.com/WICG/urlpattern",
+     "",
+     "",
+     "",
+     "yoav",
+     "",
+     "https://github.com/WICG/proposals/issues/9",
+     "yes",
+     "",
+     "2020-10-12"
     ]
    ],
    "data": [
@@ -3246,6 +3259,19 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "yes",
      "Date Added": "2020-09-23"
+    },
+    {
+     "Repository": "urlpattern",
+     "Link": "https://github.com/WICG/urlpattern",
+     "Category": "",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/9",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2020-10-12"
     }
    ]
   },
