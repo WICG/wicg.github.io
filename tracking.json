@@ -1676,6 +1676,19 @@
      "yes",
      "",
      "2020-10-12"
+    ],
+    [
+     "webcomponents",
+     "https://github.com/WICG/webcomponents",
+     "DOM",
+     "WHATWG",
+     "",
+     "cwilso",
+     "",
+     "(moved from WHATWG)",
+     "yes",
+     "",
+     "2020-11-05"
     ]
    ],
    "data": [
@@ -3272,6 +3285,19 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "",
      "Date Added": "2020-10-12"
+    },
+    {
+     "Repository": "webcomponents",
+     "Link": "https://github.com/WICG/webcomponents",
+     "Category": "DOM",
+     "Potential WG": "WHATWG",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "(moved from WHATWG)",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2020-11-05"
     }
    ]
   },
