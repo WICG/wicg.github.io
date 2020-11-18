@@ -1689,6 +1689,19 @@
      "yes",
      "",
      "2020-11-05"
+    ],
+    [
+     "handwriting-recognition",
+     "https://github.com/WICG/handwriting-recognition",
+     "??",
+     "WebApps?",
+     "",
+     "cwilso",
+     "",
+     "https://github.com/WICG/proposals/issues/8",
+     "yes",
+     "yes",
+     "2020-11-16"
     ]
    ],
    "data": [
@@ -3298,6 +3311,19 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "",
      "Date Added": "2020-11-05"
+    },
+    {
+     "Repository": "handwriting-recognition",
+     "Link": "https://github.com/WICG/handwriting-recognition",
+     "Category": "??",
+     "Potential WG": "WebApps?",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/8",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2020-11-16"
     }
    ]
   },
