@@ -1702,6 +1702,32 @@
      "yes",
      "yes",
      "2020-11-16"
+    ],
+    [
+     "document-policy",
+     "https://github.com/WICG/document-policy",
+     "Security",
+     "WebAppSec",
+     "",
+     "yoav",
+     "",
+     "https://github.com/WICG/proposals/issues/15",
+     "yes",
+     "",
+     "2020-11-25"
+    ],
+    [
+     "floc",
+     "https://github.com/WICG/floc",
+     "Privacy/Ads",
+     "?",
+     "",
+     "yoav",
+     "",
+     "https://discourse.wicg.io/t/proposal-federated-learning-of-cohorts-floc/4473/3?u=michaelkleber",
+     "yes",
+     "",
+     "2020-12-07"
     ]
    ],
    "data": [
@@ -3324,6 +3350,32 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "yes",
      "Date Added": "2020-11-16"
+    },
+    {
+     "Repository": "document-policy",
+     "Link": "https://github.com/WICG/document-policy",
+     "Category": "Security",
+     "Potential WG": "WebAppSec",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/15",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2020-11-25"
+    },
+    {
+     "Repository": "floc",
+     "Link": "https://github.com/WICG/floc",
+     "Category": "Privacy/Ads",
+     "Potential WG": "?",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-federated-learning-of-cohorts-floc/4473/3?u=michaelkleber",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2020-12-07"
     }
    ]
   },
