@@ -1728,6 +1728,17 @@
      "yes",
      "",
      "2020-12-07"
+    ],
+    [
+     "WebApiDevice",
+     "https://github.com/WICG/WebApiDevice",
+     "",
+     "?",
+     "",
+     "yoav",
+     "",
+     "https://github.com/WICG/proposals/issues/14",
+     "yes"
     ]
    ],
    "data": [
@@ -3376,6 +3387,17 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "",
      "Date Added": "2020-12-07"
+    },
+    {
+     "Repository": "WebApiDevice",
+     "Link": "https://github.com/WICG/WebApiDevice",
+     "Category": "",
+     "Potential WG": "?",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/14",
+     "Repo-manager": "yes"
     }
    ]
   },
