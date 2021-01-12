@@ -1739,6 +1739,19 @@
      "",
      "https://github.com/WICG/proposals/issues/14",
      "yes"
+    ],
+    [
+     "UUID",
+     "https://github.com/WICG/uuid",
+     "Privacy/Ads",
+     "?",
+     "",
+     "cwilso",
+     "",
+     "https://discourse.wicg.io/t/proposal-rfc4122-v4-uuids/4986/5",
+     "yes",
+     "yes",
+     "2021-01-11"
     ]
    ],
    "data": [
@@ -3398,6 +3411,19 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/14",
      "Repo-manager": "yes"
+    },
+    {
+     "Repository": "UUID",
+     "Link": "https://github.com/WICG/uuid",
+     "Category": "Privacy/Ads",
+     "Potential WG": "?",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-rfc4122-v4-uuids/4986/5",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2021-01-11"
     }
    ]
   },
