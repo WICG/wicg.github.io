@@ -1527,7 +1527,7 @@
      "adrianhopebailie ",
      "",
      "https://discourse.wicg.io/t/proposal-web-monetization-a-new-revenue-model-for-the-web/",
-     "Yes",
+     "yes",
      "n/a",
      "2020-05-27",
      "",
@@ -1542,7 +1542,7 @@
      "travisleithead",
      "",
      "https://discourse.wicg.io/t/proposal-pwas-as-uri-handlers/4394",
-     "Yes",
+     "yes",
      "n/a",
      "2020-05-27"
     ],
@@ -1623,7 +1623,8 @@
      "",
      "cwilso",
      "",
-     "https://discourse.wicg.io/t/filling-the-remaining-gap-between-websocket-webrtc-and-webtranspor/4366/7"
+     "https://discourse.wicg.io/t/filling-the-remaining-gap-between-websocket-webrtc-and-webtranspor/4366/7",
+     "yes"
     ],
     [
      "storage-buckets",
@@ -1693,8 +1694,8 @@
     [
      "handwriting-recognition",
      "https://github.com/WICG/handwriting-recognition",
-     "??",
-     "WebApps?",
+     "Input",
+     "WebAppsWG",
      "",
      "cwilso",
      "",
@@ -1732,13 +1733,15 @@
     [
      "WebApiDevice",
      "https://github.com/WICG/WebApiDevice",
-     "",
+     "Security",
      "?",
      "",
      "yoav",
      "",
      "https://github.com/WICG/proposals/issues/14",
-     "yes"
+     "yes",
+     "",
+     "2020-12-17"
     ],
     [
      "UUID",
@@ -3200,7 +3203,7 @@
      "Initiator": "adrianhopebailie ",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-web-monetization-a-new-revenue-model-for-the-web/",
-     "Repo-manager": "Yes",
+     "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "n/a",
      "Date Added": "2020-05-27",
      "Shipping in": "",
@@ -3215,7 +3218,7 @@
      "Initiator": "travisleithead",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-pwas-as-uri-handlers/4394",
-     "Repo-manager": "Yes",
+     "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "n/a",
      "Date Added": "2020-05-27"
     },
@@ -3295,7 +3298,8 @@
      "Next Step": "",
      "Initiator": "cwilso",
      "Date last reviewed": "",
-     "Discourse thread/issue link": "https://discourse.wicg.io/t/filling-the-remaining-gap-between-websocket-webrtc-and-webtranspor/4366/7"
+     "Discourse thread/issue link": "https://discourse.wicg.io/t/filling-the-remaining-gap-between-websocket-webrtc-and-webtranspor/4366/7",
+     "Repo-manager": "yes"
     },
     {
      "Repository": "storage-buckets",
@@ -3365,8 +3369,8 @@
     {
      "Repository": "handwriting-recognition",
      "Link": "https://github.com/WICG/handwriting-recognition",
-     "Category": "??",
-     "Potential WG": "WebApps?",
+     "Category": "Input",
+     "Potential WG": "WebAppsWG",
      "Next Step": "",
      "Initiator": "cwilso",
      "Date last reviewed": "",
@@ -3404,13 +3408,15 @@
     {
      "Repository": "WebApiDevice",
      "Link": "https://github.com/WICG/WebApiDevice",
-     "Category": "",
+     "Category": "Security",
      "Potential WG": "?",
      "Next Step": "",
      "Initiator": "yoav",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/14",
-     "Repo-manager": "yes"
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2020-12-17"
     },
     {
      "Repository": "UUID",
