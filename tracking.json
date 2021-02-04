@@ -1755,6 +1755,19 @@
      "yes",
      "yes",
      "2021-01-11"
+    ],
+    [
+     "AppHistory",
+     "https://github.com/WICG/app-history",
+     "",
+     "?",
+     "",
+     "yoav",
+     "",
+     "https://github.com/WICG/proposals/issues/20",
+     "yes",
+     "",
+     "03/02/21"
     ]
    ],
    "data": [
@@ -3430,6 +3443,19 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "yes",
      "Date Added": "2021-01-11"
+    },
+    {
+     "Repository": "AppHistory",
+     "Link": "https://github.com/WICG/app-history",
+     "Category": "",
+     "Potential WG": "?",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/20",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "03/02/21"
     }
    ]
   },
