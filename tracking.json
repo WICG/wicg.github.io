@@ -1767,7 +1767,20 @@
      "https://github.com/WICG/proposals/issues/20",
      "yes",
      "",
-     "03/02/21"
+     "02/03/21"
+    ],
+    [
+     "Resource-Bundles",
+     "https://github.com/WICG/resource-bundles",
+     "Performance",
+     "?",
+     "",
+     "yoav",
+     "",
+     "https://github.com/WICG/proposals/issues/21",
+     "yes",
+     "",
+     "2021-02-23"
     ]
    ],
    "data": [
@@ -3455,7 +3468,20 @@
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/20",
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "",
-     "Date Added": "03/02/21"
+     "Date Added": "02/03/21"
+    },
+    {
+     "Repository": "Resource-Bundles",
+     "Link": "https://github.com/WICG/resource-bundles",
+     "Category": "Performance",
+     "Potential WG": "?",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/21",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2021-02-23"
     }
    ]
   },
