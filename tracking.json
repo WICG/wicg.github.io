@@ -1781,6 +1781,19 @@
      "yes",
      "",
      "2021-02-23"
+    ],
+    [
+     "privacy-preserving-ads",
+     "https://github.com/WICG/privacy-preserving-ads",
+     "Privacy/Ads",
+     "?",
+     "",
+     "travisleithead",
+     "",
+     "https://github.com/WICG/proposals/issues/24",
+     "yes",
+     "yes",
+     "2021-03-04"
     ]
    ],
    "data": [
@@ -3482,6 +3495,19 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "",
      "Date Added": "2021-02-23"
+    },
+    {
+     "Repository": "privacy-preserving-ads",
+     "Link": "https://github.com/WICG/privacy-preserving-ads",
+     "Category": "Privacy/Ads",
+     "Potential WG": "?",
+     "Next Step": "",
+     "Initiator": "travisleithead",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/24",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2021-03-04"
     }
    ]
   },
