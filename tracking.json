@@ -1794,6 +1794,19 @@
      "yes",
      "yes",
      "2021-03-04"
+    ],
+    [
+     "lock-screen",
+     "https://github.com/WICG/lock-screen",
+     "input",
+     "?",
+     "",
+     "cwilso",
+     "",
+     "https://discourse.wicg.io/t/proposal-lock-screen-api/4372",
+     "yes",
+     "yes",
+     "2021-03-18"
     ]
    ],
    "data": [
@@ -3508,6 +3521,19 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "yes",
      "Date Added": "2021-03-04"
+    },
+    {
+     "Repository": "lock-screen",
+     "Link": "https://github.com/WICG/lock-screen",
+     "Category": "input",
+     "Potential WG": "?",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-lock-screen-api/4372",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2021-03-18"
     }
    ]
   },
