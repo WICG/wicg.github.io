@@ -845,8 +845,8 @@
      "A browser API to enable developers signal the priorities of the resources they need to download"
     ],
     [
-     "purification",
-     "https://github.com/WICG/purification",
+     "sanitizer-api",
+     "https://github.com/WICG/sanitizer-api",
      "Security",
      "",
      "",
@@ -854,7 +854,10 @@
      "",
      "",
      "yes",
-     "n/a"
+     "n/a",
+     "",
+     "",
+     "https://github.com/mozilla/standards-positions/issues/106"
     ],
     [
      "https://github.com/WICG/requestPostAnimationFrame",
@@ -2594,8 +2597,8 @@
      "Description": "A browser API to enable developers signal the priorities of the resources they need to download"
     },
     {
-     "Repository": "purification",
-     "Link": "https://github.com/WICG/purification",
+     "Repository": "sanitizer-api",
+     "Link": "https://github.com/WICG/sanitizer-api",
      "Category": "Security",
      "Potential WG": "",
      "Next Step": "",
@@ -2603,7 +2606,10 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a"
+     "Announced on  public-review-announce@w3.org": "n/a",
+     "Date Added": "",
+     "Shipping in": "",
+     "Mozilla position": "https://github.com/mozilla/standards-positions/issues/106"
     },
     {
      "Repository": "requestPostAnimationFrame",
