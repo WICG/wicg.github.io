@@ -1810,6 +1810,19 @@
      "yes",
      "yes",
      "2021-03-18"
+    ],
+    [
+     "Storage Foundation",
+     "https://github.com/WICG/storage-foundation-api-explainer",
+     "",
+     "",
+     "",
+     "yoav",
+     "",
+     "",
+     "yes",
+     "",
+     "2021-04-09"
     ]
    ],
    "data": [
@@ -3540,6 +3553,19 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "yes",
      "Date Added": "2021-03-18"
+    },
+    {
+     "Repository": "Storage Foundation",
+     "Link": "https://github.com/WICG/storage-foundation-api-explainer",
+     "Category": "",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2021-04-09"
     }
    ]
   },
