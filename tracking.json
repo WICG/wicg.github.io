@@ -1823,6 +1823,19 @@
      "yes",
      "",
      "2021-04-09"
+    ],
+    [
+     "Capability delegation",
+     "https://github.com/WICG/capability-delegation",
+     "",
+     "",
+     "",
+     "yoav",
+     "",
+     "",
+     "yes",
+     "",
+     "2021-04-09"
     ]
    ],
    "data": [
@@ -3557,6 +3570,19 @@
     {
      "Repository": "Storage Foundation",
      "Link": "https://github.com/WICG/storage-foundation-api-explainer",
+     "Category": "",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2021-04-09"
+    },
+    {
+     "Repository": "Capability delegation",
+     "Link": "https://github.com/WICG/capability-delegation",
      "Category": "",
      "Potential WG": "",
      "Next Step": "",
