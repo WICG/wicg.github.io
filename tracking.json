@@ -1906,6 +1906,20 @@
      "yes",
      "yes",
      "2021-5-18"
+    ],
+    [
+     "User prefences CH",
+     "https://github.com/WICG/user-preference-media-features-headers",
+     "Performance/CSS",
+     "CSSWG??",
+     "",
+     "yoav",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/30",
+     "yes",
+     "",
+     "2021-06-07"
     ]
    ],
    "data": [
@@ -3793,6 +3807,20 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "yes",
      "Date Added": "2021-5-18"
+    },
+    {
+     "Repository": "User prefences CH",
+     "Link": "https://github.com/WICG/user-preference-media-features-headers",
+     "Category": "Performance/CSS",
+     "Potential WG": "CSSWG??",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Industry Sponsor (not customer)": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/30",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2021-06-07"
     }
    ]
   },
