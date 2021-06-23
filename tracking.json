@@ -1920,6 +1920,20 @@
      "yes",
      "",
      "2021-06-07"
+    ],
+    [
+     "prefer-current-tab",
+     "https://github.com/WICG/prefer-current-tab",
+     "Media",
+     "MediaWG ??",
+     "",
+     "yoav",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/32",
+     "yes",
+     "",
+     "2021-06-21"
     ]
    ],
    "data": [
@@ -3821,6 +3835,20 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "",
      "Date Added": "2021-06-07"
+    },
+    {
+     "Repository": "prefer-current-tab",
+     "Link": "https://github.com/WICG/prefer-current-tab",
+     "Category": "Media",
+     "Potential WG": "MediaWG ??",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Industry Sponsor (not customer)": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/32",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2021-06-21"
     }
    ]
   },
