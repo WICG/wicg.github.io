@@ -1934,6 +1934,34 @@
      "yes",
      "",
      "2021-06-21"
+    ],
+    [
+     "credentialessness",
+     "https://github.com/WICG/credentiallessness",
+     "Security",
+     "WebAppSec",
+     "",
+     "yoav",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/31",
+     "yes",
+     "",
+     "2021-07-08"
+    ],
+    [
+     "capture-handle",
+     "https://github.com/WICG/capture-handle",
+     "Media",
+     "MediaWG ??",
+     "",
+     "yoav",
+     "Google",
+     "",
+     "https://discourse.wicg.io/t/proposal-capture-handle-bootstrap-app-collaboration-when-screensharing/5354/8",
+     "yes",
+     "",
+     "2021-07-09"
     ]
    ],
    "data": [
@@ -3849,6 +3877,34 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "",
      "Date Added": "2021-06-21"
+    },
+    {
+     "Repository": "credentialessness",
+     "Link": "https://github.com/WICG/credentiallessness",
+     "Category": "Security",
+     "Potential WG": "WebAppSec",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Industry Sponsor (not customer)": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/31",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2021-07-08"
+    },
+    {
+     "Repository": "capture-handle",
+     "Link": "https://github.com/WICG/capture-handle",
+     "Category": "Media",
+     "Potential WG": "MediaWG ??",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Industry Sponsor (not customer)": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-capture-handle-bootstrap-app-collaboration-when-screensharing/5354/8",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2021-07-09"
     }
    ]
   },
