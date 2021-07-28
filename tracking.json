@@ -1962,6 +1962,20 @@
      "yes",
      "",
      "2021-07-09"
+    ],
+    [
+     "color-api",
+     "https://github.com/WICG/color-api",
+     "CSS",
+     "CSSWG",
+     "",
+     "cwilso",
+     "CSS",
+     "",
+     "https://github.com/w3c/css-houdini-drafts/issues/1047",
+     "yes",
+     "",
+     "2021-07-26"
     ]
    ],
    "data": [
@@ -3905,6 +3919,20 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "",
      "Date Added": "2021-07-09"
+    },
+    {
+     "Repository": "color-api",
+     "Link": "https://github.com/WICG/color-api",
+     "Category": "CSS",
+     "Potential WG": "CSSWG",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Industry Sponsor (not customer)": "CSS",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/w3c/css-houdini-drafts/issues/1047",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2021-07-26"
     }
    ]
   },
