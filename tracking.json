@@ -1732,8 +1732,8 @@
      "Configure availability of the \"window overlay\" (top UI) in OS with overlapping window management UIs"
     ],
     [
-     "WebID",
-     "https://github.com/WICG/WebID/",
+     "FedCM (was: WebID)",
+     "https://github.com/WICG/FedCM/",
      "Authentication",
      "WebAppSec??",
      "",
@@ -2118,6 +2118,60 @@
      "yes",
      "yes",
      "2021-08-03"
+    ],
+    [
+     "csp-next",
+     "https://github.com/WICG/csp-next",
+     "Security",
+     "WebAppSec",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/36",
+     "yes"
+    ],
+    [
+     "close-watcher",
+     "https://github.com/WICG/close-watcher",
+     "input",
+     "WebAppsWG",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/18",
+     "yes",
+     "yes",
+     "2021-08-07"
+    ],
+    [
+     "compute-pressure",
+     "https://github.com/WICG/compute-pressure",
+     "",
+     "",
+     "",
+     "yoav",
+     "Google",
+     "Google/Intel",
+     "",
+     "https://github.com/WICG/proposals/issues/28",
+     "yes"
+    ],
+    [
+     "Conditional focus",
+     "https://github.com/WICG/conditional-focus",
+     "Media",
+     "MediaWG?",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/37",
+     "yes"
     ]
    ],
    "data": [
@@ -3830,8 +3884,8 @@
      "Description": "Configure availability of the \"window overlay\" (top UI) in OS with overlapping window management UIs"
     },
     {
-     "Repository": "WebID",
-     "Link": "https://github.com/WICG/WebID/",
+     "Repository": "FedCM (was: WebID)",
+     "Link": "https://github.com/WICG/FedCM/",
      "Category": "Authentication",
      "Potential WG": "WebAppSec??",
      "Next Step": "",
@@ -4216,6 +4270,60 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "yes",
      "Date Added": "2021-08-03"
+    },
+    {
+     "Repository": "csp-next",
+     "Link": "https://github.com/WICG/csp-next",
+     "Category": "Security",
+     "Potential WG": "WebAppSec",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/36",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "close-watcher",
+     "Link": "https://github.com/WICG/close-watcher",
+     "Category": "input",
+     "Potential WG": "WebAppsWG",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/18",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2021-08-07"
+    },
+    {
+     "Repository": "compute-pressure",
+     "Link": "https://github.com/WICG/compute-pressure",
+     "Category": "",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google/Intel",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/28",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Conditional focus",
+     "Link": "https://github.com/WICG/conditional-focus",
+     "Category": "Media",
+     "Potential WG": "MediaWG?",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/37",
+     "Repo-manager": "yes"
     }
    ]
   },
