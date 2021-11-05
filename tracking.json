@@ -2172,6 +2172,21 @@
      "",
      "https://github.com/WICG/proposals/issues/37",
      "yes"
+    ],
+    [
+     "Navigation Speculation",
+     "https://github.com/WICG/nav-speculation",
+     "Navigation",
+     "WebApps",
+     "",
+     "cwilso",
+     "Google",
+     "G",
+     "",
+     "https://github.com/WICG/proposals/issues/2",
+     "yes",
+     "yes",
+     "2021-11-1"
     ]
    ],
    "data": [
@@ -4324,6 +4339,21 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/37",
      "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Navigation Speculation",
+     "Link": "https://github.com/WICG/nav-speculation",
+     "Category": "Navigation",
+     "Potential WG": "WebApps",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "G",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/2",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2021-11-1"
     }
    ]
   },
