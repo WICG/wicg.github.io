@@ -1732,21 +1732,6 @@
      "Configure availability of the \"window overlay\" (top UI) in OS with overlapping window management UIs"
     ],
     [
-     "FedCM (was: WebID)",
-     "https://github.com/WICG/FedCM/",
-     "Authentication",
-     "WebAppSec??",
-     "",
-     "cwilso",
-     "",
-     "",
-     "",
-     "https://discourse.wicg.io/t/proposal-webid-privacy-preserving-federated-sign-in-api/4661/4",
-     "yes",
-     "",
-     "2020-07-23"
-    ],
-    [
      "raw-sockets",
      "https://github.com/WICG/raw-sockets",
      "Networking",
@@ -3899,21 +3884,6 @@
      "Description": "Configure availability of the \"window overlay\" (top UI) in OS with overlapping window management UIs"
     },
     {
-     "Repository": "FedCM (was: WebID)",
-     "Link": "https://github.com/WICG/FedCM/",
-     "Category": "Authentication",
-     "Potential WG": "WebAppSec??",
-     "Next Step": "",
-     "Initiator": "cwilso",
-     "Impl. Sponsor": "",
-     "Spec Sponsor": "",
-     "Date last reviewed": "",
-     "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-webid-privacy-preserving-federated-sign-in-api/4661/4",
-     "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
-     "Date Added": "2020-07-23"
-    },
-    {
      "Repository": "raw-sockets",
      "Link": "https://github.com/WICG/raw-sockets",
      "Category": "Networking",
@@ -4546,6 +4516,13 @@
      "PrivacyCG",
      "",
      "Transferred to Privacy CG"
+    ],
+    [
+     "https://github.com/fedidcg/FedCM/",
+     "1/10/2022",
+     "FedIDCG",
+     "",
+     "Transferred to Federated ID CG"
     ]
    ],
    "data": [
@@ -4727,6 +4704,13 @@
      "Migrated to": "PrivacyCG",
      "Shipping in": "",
      "Description": "Transferred to Privacy CG"
+    },
+    {
+     "Repository": "FedCM (was: WebID)",
+     "Date taken": "1/10/2022",
+     "Migrated to": "FedIDCG",
+     "Shipping in": "",
+     "Description": "Transferred to Federated ID CG"
     }
    ]
   },
