@@ -2096,6 +2096,19 @@
      "",
      "",
      "2022-03-10"
+    ],
+    [
+     "WebCrypto secure curves",
+     "https://github.com/WICG/webcrypto-secure-curves",
+     "Security",
+     "",
+     "",
+     "yoav",
+     "",
+     "",
+     "",
+     "https://github.com/WICG/proposals/issues/46",
+     "yes"
     ]
    ],
    "data": [
@@ -4172,6 +4185,19 @@
      "Repo-manager": "",
      "Announced on  public-review-announce@w3.org": "",
      "Date Added": "2022-03-10"
+    },
+    {
+     "Repository": "WebCrypto secure curves",
+     "Link": "https://github.com/WICG/webcrypto-secure-curves",
+     "Category": "Security",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "",
+     "Spec Sponsor": "",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/46",
+     "Repo-manager": "yes"
     }
    ]
   },
