@@ -2109,6 +2109,34 @@
      "",
      "https://github.com/WICG/proposals/issues/46",
      "yes"
+    ],
+    [
+     "Anonymous iframe",
+     "https://github.com/WICG/anonymous-iframe",
+     "Security",
+     "",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/53#issuecomment-1091307282",
+     "yes",
+     "",
+     "2022-04-07"
+    ],
+    [
+     "A/B testing worker prototype",
+     "https://github.com/WICG/ab-worker-prototype",
+     "Performance",
+     "WebPerfWG",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/54",
+     "yes"
     ]
    ],
    "data": [
@@ -4197,6 +4225,34 @@
      "Spec Sponsor": "",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/46",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Anonymous iframe",
+     "Link": "https://github.com/WICG/anonymous-iframe",
+     "Category": "Security",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/53",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2022-04-07"
+    },
+    {
+     "Repository": "A/B testing worker prototype",
+     "Link": "https://github.com/WICG/ab-worker-prototype",
+     "Category": "Performance",
+     "Potential WG": "WebPerfWG",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/54",
      "Repo-manager": "yes"
     }
    ]
