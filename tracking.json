@@ -2137,6 +2137,32 @@
      "",
      "https://github.com/WICG/proposals/issues/54",
      "yes"
+    ],
+    [
+     "Shared Storage",
+     "https://github.com/WICG/shared-storage",
+     "Privacy/Ads",
+     "",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/57",
+     "yes"
+    ],
+    [
+     "Unload beacon",
+     "https://github.com/WICG/unload-beacon",
+     "Performance",
+     "WebPerfWG",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/wicg/proposals/issues/58",
+     "yes"
     ]
    ],
    "data": [
@@ -4253,6 +4279,32 @@
      "Spec Sponsor": "Google",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/54",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Shared Storage",
+     "Link": "https://github.com/WICG/shared-storage",
+     "Category": "Privacy/Ads",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/57",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Unload beacon",
+     "Link": "https://github.com/WICG/unload-beacon",
+     "Category": "Performance",
+     "Potential WG": "WebPerfWG",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/wicg/proposals/issues/58",
      "Repo-manager": "yes"
     }
    ]
