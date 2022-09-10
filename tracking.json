@@ -504,11 +504,11 @@
      "https://github.com/WICG/input-for-workers",
      "Input",
      "",
-     "Reach out to contributors to get latest status",
+     "DORMANT",
      "yoav",
      "",
      "",
-     "2/9/2022",
+     "8/1/2022",
      "",
      "yes",
      "n/a",
@@ -2163,6 +2163,32 @@
      "",
      "https://github.com/wicg/proposals/issues/58",
      "yes"
+    ],
+    [
+     "Isolated web apps",
+     "https://github.com/WICG/isolated-web-apps",
+     "",
+     "",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/56",
+     "yes"
+    ],
+    [
+     "Mobile document request",
+     "https://github.com/WICG/mobile-document-request-api",
+     "",
+     "",
+     "",
+     "yoav",
+     "Apple",
+     "Apple",
+     "",
+     "https://github.com/WICG/proposals/issues/67",
+     "yes"
     ]
    ],
    "data": [
@@ -2647,11 +2673,11 @@
      "Link": "https://github.com/WICG/input-for-workers",
      "Category": "Input",
      "Potential WG": "",
-     "Next Step": "Reach out to contributors to get latest status",
+     "Next Step": "DORMANT",
      "Initiator": "yoav",
      "Impl. Sponsor": "",
      "Spec Sponsor": "",
-     "Date last reviewed": "2/9/2022",
+     "Date last reviewed": "8/1/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "n/a",
@@ -4305,6 +4331,32 @@
      "Spec Sponsor": "Google",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/wicg/proposals/issues/58",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Isolated web apps",
+     "Link": "https://github.com/WICG/isolated-web-apps",
+     "Category": "",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/56",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Mobile document request",
+     "Link": "https://github.com/WICG/mobile-document-request-api",
+     "Category": "",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Apple",
+     "Spec Sponsor": "Apple",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/67",
      "Repo-manager": "yes"
     }
    ]
