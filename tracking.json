@@ -2280,6 +2280,18 @@
      "",
      "https://github.com/WICG/proposals/issues/90",
      "yes"
+    ],
+    [
+     "Not-restored reasons",
+     "https://github.com/WICG/bfcache-not-restored-reason",
+     "WebPerf",
+     "WebPerfWG",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/93"
     ]
    ],
    "data": [
@@ -4540,6 +4552,18 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/90",
      "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Not-restored reasons",
+     "Link": "https://github.com/WICG/bfcache-not-restored-reason",
+     "Category": "WebPerf",
+     "Potential WG": "WebPerfWG",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/93"
     }
    ]
   },
