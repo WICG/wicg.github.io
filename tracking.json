@@ -2292,6 +2292,49 @@
      "Google",
      "",
      "https://github.com/WICG/proposals/issues/93"
+    ],
+    [
+     "Identity Credentials",
+     "https://github.com/WICG/identity-credential",
+     "Identity",
+     "?",
+     "",
+     "cwilso",
+     "Google",
+     "Microsoft",
+     "",
+     "https://github.com/WICG/proposals/issues/105",
+     "yes",
+     "yes",
+     "2023-06-29"
+    ],
+    [
+     "Service Worker Static Routing API",
+     "https://github.com/WICG/service-worker-static-routing-api",
+     "Service Worker",
+     "Service Worker WG",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/102",
+     "yes",
+     "yes",
+     "2023-08-30"
+    ],
+    [
+     "Web Preferences API",
+     "https://github.com/WICG/web-preferences-api",
+     "",
+     "",
+     "",
+     "yoav",
+     "??",
+     "??",
+     "",
+     "https://github.com/WICG/proposals/issues/117",
+     "yes"
     ]
    ],
    "data": [
@@ -4564,6 +4607,49 @@
      "Spec Sponsor": "Google",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/93"
+    },
+    {
+     "Repository": "Identity Credentials",
+     "Link": "https://github.com/WICG/identity-credential",
+     "Category": "Identity",
+     "Potential WG": "?",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Microsoft",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/105",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2023-06-29"
+    },
+    {
+     "Repository": "Service Worker Static Routing API",
+     "Link": "https://github.com/WICG/service-worker-static-routing-api",
+     "Category": "Service Worker",
+     "Potential WG": "Service Worker WG",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/102",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2023-08-30"
+    },
+    {
+     "Repository": "Web Preferences API",
+     "Link": "https://github.com/WICG/web-preferences-api",
+     "Category": "",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "??",
+     "Spec Sponsor": "??",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/117",
+     "Repo-manager": "yes"
     }
    ]
   },
