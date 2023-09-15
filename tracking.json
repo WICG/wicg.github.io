@@ -2335,6 +2335,21 @@
      "",
      "https://github.com/WICG/proposals/issues/117",
      "yes"
+    ],
+    [
+     "Observables",
+     "https://github.com/WICG/observable",
+     "Event Handling",
+     "WebApps?",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/118",
+     "yes",
+     "yes",
+     "2023-09-14"
     ]
    ],
    "data": [
@@ -4650,6 +4665,21 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/117",
      "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Observables",
+     "Link": "https://github.com/WICG/observable",
+     "Category": "Event Handling",
+     "Potential WG": "WebApps?",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/118",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2023-09-14"
     }
    ]
   },
