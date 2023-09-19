@@ -2350,6 +2350,36 @@
      "yes",
      "yes",
      "2023-09-14"
+    ],
+    [
+     "Accessible Notifications",
+     "https://github.com/WICG/accessible-notifications",
+     "Accessibility",
+     "WebApps",
+     "",
+     "cwilso",
+     "",
+     "",
+     "",
+     "https://github.com/WICG/proposals/issues/112",
+     "yes",
+     "yes",
+     "2023-09-15"
+    ],
+    [
+     "PEPC",
+     "https://github.com/WICG/PEPC",
+     "Permissions",
+     "WebAppSec",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/113",
+     "yes",
+     "",
+     "2023-09-18"
     ]
    ],
    "data": [
@@ -4680,6 +4710,36 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "yes",
      "Date Added": "2023-09-14"
+    },
+    {
+     "Repository": "Accessible Notifications",
+     "Link": "https://github.com/WICG/accessible-notifications",
+     "Category": "Accessibility",
+     "Potential WG": "WebApps",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "",
+     "Spec Sponsor": "",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/112",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2023-09-15"
+    },
+    {
+     "Repository": "PEPC",
+     "Link": "https://github.com/WICG/PEPC",
+     "Category": "Permissions",
+     "Potential WG": "WebAppSec",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/113",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2023-09-18"
     }
    ]
   },
