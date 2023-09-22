@@ -2380,6 +2380,36 @@
      "yes",
      "",
      "2023-09-18"
+    ],
+    [
+     "Controlled Frame",
+     "https://github.com/WICG/controlled-frame",
+     "Security?",
+     "WebAppSec?",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/88",
+     "yes",
+     "yes",
+     "2023-09-19"
+    ],
+    [
+     "Device Bound Session Credentials",
+     "https://github.com/WICG/dbsc",
+     "Security?",
+     "WebAppSec",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/106",
+     "yes",
+     "",
+     "2023-09-20"
     ]
    ],
    "data": [
@@ -4740,6 +4770,36 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "",
      "Date Added": "2023-09-18"
+    },
+    {
+     "Repository": "Controlled Frame",
+     "Link": "https://github.com/WICG/controlled-frame",
+     "Category": "Security?",
+     "Potential WG": "WebAppSec?",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/88",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2023-09-19"
+    },
+    {
+     "Repository": "Device Bound Session Credentials",
+     "Link": "https://github.com/WICG/dbsc",
+     "Category": "Security?",
+     "Potential WG": "WebAppSec",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/106",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "",
+     "Date Added": "2023-09-20"
     }
    ]
   },
