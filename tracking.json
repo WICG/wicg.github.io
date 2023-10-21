@@ -2410,6 +2410,34 @@
      "yes",
      "",
      "2023-09-20"
+    ],
+    [
+     "Cross-Origin-Opener-Policy: restrict-properties",
+     "https://github.com/WICG/coop-restrict-properties",
+     "Security",
+     "WebAppSec",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/114",
+     "yes",
+     "yes",
+     "2023-10-04"
+    ],
+    [
+     "Web-Printing",
+     "https://github.com/WICG/web-printing",
+     "Printing",
+     "",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/120",
+     "yes"
     ]
    ],
    "data": [
@@ -4800,6 +4828,34 @@
      "Repo-manager": "yes",
      "Announced on  public-review-announce@w3.org": "",
      "Date Added": "2023-09-20"
+    },
+    {
+     "Repository": "Cross-Origin-Opener-Policy: restrict-properties",
+     "Link": "https://github.com/WICG/coop-restrict-properties",
+     "Category": "Security",
+     "Potential WG": "WebAppSec",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/114",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2023-10-04"
+    },
+    {
+     "Repository": "Web-Printing",
+     "Link": "https://github.com/WICG/web-printing",
+     "Category": "Printing",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/120",
+     "Repo-manager": "yes"
     }
    ]
   },
