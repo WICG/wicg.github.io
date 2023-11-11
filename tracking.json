@@ -2438,6 +2438,19 @@
      "",
      "https://github.com/WICG/proposals/issues/120",
      "yes"
+    ],
+    [
+     "Local P2P",
+     "https://github.com/WICG/local-peer-to-peer",
+     "",
+     "",
+     "",
+     "yoav",
+     "Intel?",
+     "Intel?",
+     "",
+     "https://github.com/WICG/proposals/issues/103",
+     "yes"
     ]
    ],
    "data": [
@@ -4855,6 +4868,19 @@
      "Spec Sponsor": "Google",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/120",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Local P2P",
+     "Link": "https://github.com/WICG/local-peer-to-peer",
+     "Category": "",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Intel?",
+     "Spec Sponsor": "Intel?",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/103",
      "Repo-manager": "yes"
     }
    ]
