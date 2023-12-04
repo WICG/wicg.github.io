@@ -2451,6 +2451,19 @@
      "",
      "https://github.com/WICG/proposals/issues/103",
      "yes"
+    ],
+    [
+     "Protected audience discussions",
+     "https://github.com/WICG/protected-auction-services-discussion",
+     "Privacy",
+     "",
+     "",
+     "yoav",
+     "",
+     "",
+     "",
+     "https://github.com/WICG/proposals/issues/122",
+     "yes"
     ]
    ],
    "data": [
@@ -4881,6 +4894,19 @@
      "Spec Sponsor": "Intel?",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/103",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Protected audience discussions",
+     "Link": "https://github.com/WICG/protected-auction-services-discussion",
+     "Category": "Privacy",
+     "Potential WG": "",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "",
+     "Spec Sponsor": "",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/122",
      "Repo-manager": "yes"
     }
    ]
