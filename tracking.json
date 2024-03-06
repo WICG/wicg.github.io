@@ -2464,6 +2464,34 @@
      "",
      "https://github.com/WICG/proposals/issues/122",
      "yes"
+    ],
+    [
+     "Pointer Event Extensions",
+     "https://github.com/WICG/pointer-event-extensions",
+     "Pointer Events",
+     "Pointer Events WG",
+     "",
+     "cwilso",
+     "Microsoft",
+     "Microsoft",
+     "",
+     "https://github.com/WICG/proposals/issues/101",
+     "yes",
+     "yes",
+     "2024-01-11"
+    ],
+    [
+     "Playout Statistics for Web Audio",
+     "https://github.com/WICG/web_audio_playout",
+     "Web Audio",
+     "Web Audio",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/142",
+     "yes"
     ]
    ],
    "data": [
@@ -4907,6 +4935,34 @@
      "Spec Sponsor": "",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/122",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Pointer Event Extensions",
+     "Link": "https://github.com/WICG/pointer-event-extensions",
+     "Category": "Pointer Events",
+     "Potential WG": "Pointer Events WG",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Microsoft",
+     "Spec Sponsor": "Microsoft",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/101",
+     "Repo-manager": "yes",
+     "Announced on  public-review-announce@w3.org": "yes",
+     "Date Added": "2024-01-11"
+    },
+    {
+     "Repository": "Playout Statistics for Web Audio",
+     "Link": "https://github.com/WICG/web_audio_playout",
+     "Category": "Web Audio",
+     "Potential WG": "Web Audio",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/142",
      "Repo-manager": "yes"
     }
    ]
