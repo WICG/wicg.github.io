@@ -2492,6 +2492,19 @@
      "",
      "https://github.com/WICG/proposals/issues/142",
      "yes"
+    ],
+    [
+     "Document Isolation Policy",
+     "https://github.com/WICG/document-isolation-policy",
+     "Security",
+     "WebAppSec",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/145",
+     "yes"
     ]
    ],
    "data": [
@@ -4963,6 +4976,19 @@
      "Spec Sponsor": "Google",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/142",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Document Isolation Policy",
+     "Link": "https://github.com/WICG/document-isolation-policy",
+     "Category": "Security",
+     "Potential WG": "WebAppSec",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/145",
      "Repo-manager": "yes"
     }
    ]
