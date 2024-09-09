@@ -15,7 +15,7 @@
     "Date last reviewed",
     "Discourse thread/issue link",
     "Repo-manager",
-    "Announced on  public-review-announce@w3.org",
+    "Announced on  public-new-work@w3.org",
     "Date Added",
     "Shipping in",
     "Mozilla position",
@@ -2505,6 +2505,71 @@
      "",
      "https://github.com/WICG/proposals/issues/145",
      "yes"
+    ],
+    [
+     "Web Translation API",
+     "https://github.com/WICG/translation-api",
+     "",
+     "WebApps?",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/147",
+     "yes"
+    ],
+    [
+     "Realm Initialization Control",
+     "https://github.com/WICG/Realms-Initialization-Control",
+     "Security",
+     "WHATWG (or maybe WebAppSec?)",
+     "",
+     "yoav",
+     "Metamask?",
+     "Metamask",
+     "",
+     "https://github.com/WICG/proposals/issues/144",
+     "yes"
+    ],
+    [
+     "Canvas Place Element",
+     "https://github.com/WICG/canvas-place-element",
+     "Rendering",
+     "WHATWG (rel to CSSWG)",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/167",
+     "yes"
+    ],
+    [
+     "Writing Assistance APIs",
+     "https://github.com/WICG/writing-assistance-apis/",
+     "AI",
+     "?",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/163",
+     "yes"
+    ],
+    [
+     "Address autofill API",
+     "https://github.com/WICG/address_autofill_api",
+     "Autofill",
+     "?",
+     "",
+     "yoav",
+     "Shopify",
+     "Shopify",
+     "",
+     "https://github.com/WICG/proposals/issues/162",
+     "yes"
     ]
    ],
    "data": [
@@ -2520,7 +2585,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2538,7 +2603,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "September 27, 2019",
      "Shipping in": "",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/161",
@@ -2556,7 +2621,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/203"
@@ -2573,7 +2638,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2591,7 +2656,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/214",
@@ -2609,7 +2674,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2627,7 +2692,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "Chromium",
      "Mozilla position": "",
@@ -2645,7 +2710,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a"
+     "Announced on  public-new-work@w3.org": "n/a"
     },
     {
      "Repository": "controls-list",
@@ -2659,7 +2724,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2677,7 +2742,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "Chrome",
      "Mozilla position": "",
@@ -2695,7 +2760,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a"
+     "Announced on  public-new-work@w3.org": "n/a"
     },
     {
      "Repository": "cq-usecases",
@@ -2709,7 +2774,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2727,7 +2792,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2745,7 +2810,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "March 14, 2019",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2763,7 +2828,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2781,7 +2846,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2799,7 +2864,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/192",
@@ -2817,7 +2882,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2835,7 +2900,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2853,7 +2918,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2871,7 +2936,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2889,7 +2954,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2907,7 +2972,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/213"
@@ -2924,7 +2989,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2942,7 +3007,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2960,7 +3025,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2978,7 +3043,7 @@
      "Date last reviewed": "2/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -2996,7 +3061,7 @@
      "Date last reviewed": "8/1/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "August 30, 2019",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3014,7 +3079,7 @@
      "Date last reviewed": "3/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3032,7 +3097,7 @@
      "Date last reviewed": "3/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3050,7 +3115,7 @@
      "Date last reviewed": "3/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a"
+     "Announced on  public-new-work@w3.org": "n/a"
     },
     {
      "Repository": "js-self-profiling",
@@ -3064,7 +3129,7 @@
      "Date last reviewed": "3/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "March 12, 2019",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3082,7 +3147,7 @@
      "Date last reviewed": "3/9/2022",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3100,7 +3165,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "May 28th, 2019"
     },
     {
@@ -3115,7 +3180,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "March 14, 2019"
     },
     {
@@ -3130,7 +3195,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a"
+     "Announced on  public-new-work@w3.org": "n/a"
     },
     {
      "Repository": "open-ui",
@@ -3144,7 +3209,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "September 30, 2019",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3162,7 +3227,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a"
+     "Announced on  public-new-work@w3.org": "n/a"
     },
     {
      "Repository": "overscroll-scrollend-events",
@@ -3176,7 +3241,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "June 11th, 2019"
     },
     {
@@ -3191,7 +3256,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3209,7 +3274,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3227,7 +3292,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3245,7 +3310,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3263,7 +3328,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3281,7 +3346,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/106"
@@ -3298,7 +3363,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "May 2nd, 2019"
     },
     {
@@ -3313,7 +3378,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "September 6th, 2019",
      "Shipping in": "Chromium",
      "Mozilla position": "",
@@ -3331,7 +3396,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "July 23rd, 2019",
      "Shipping in": "",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/194"
@@ -3348,7 +3413,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3366,7 +3431,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3384,7 +3449,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3402,7 +3467,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3420,7 +3485,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3438,7 +3503,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3456,7 +3521,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "April 19,2019"
     },
     {
@@ -3471,7 +3536,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3489,7 +3554,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3507,7 +3572,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "May 29th, 2019"
     },
     {
@@ -3522,7 +3587,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "March 6, 2019",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3540,7 +3605,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3558,7 +3623,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3576,7 +3641,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3594,7 +3659,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "September 13th, 2019",
      "Shipping in": "",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/209",
@@ -3612,7 +3677,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-hint-attribute-on-htmlmediaelement-to-configure-rendering-latency/3567/9",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "September 27, 2019"
     },
     {
@@ -3627,7 +3692,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-trust-token-api/3858/7",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "October 2, 2019"
     },
     {
@@ -3642,7 +3707,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-raw-clipboard-access/3979",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "October 31, 2019",
      "Shipping in": "",
      "Mozilla position": "https://github.com/WICG/raw-clipboard-access"
@@ -3659,7 +3724,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-compression-streams-standard/3920/10",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "November 15th, 2019",
      "Shipping in": "",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/207",
@@ -3677,7 +3742,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "November 19th, 2019"
     },
     {
@@ -3692,7 +3757,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-custom-state-pseudo-class/4108",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "December 2nd, 2019"
     },
     {
@@ -3707,7 +3772,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-system-keyboard-lock-api/1594",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a"
+     "Announced on  public-new-work@w3.org": "n/a"
     },
     {
      "Repository": "crash-reporting",
@@ -3721,7 +3786,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-crash-deprecation-intervention-reporting/4144",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "December 13, 2019"
     },
     {
@@ -3736,7 +3801,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-crash-deprecation-intervention-reporting/4144",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "December 13, 2019"
     },
     {
@@ -3751,7 +3816,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-crash-deprecation-intervention-reporting/4144",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "December 13, 2019"
     },
     {
@@ -3766,7 +3831,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2019-12-24",
      "Shipping in": "",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/237",
@@ -3784,7 +3849,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/client-hints-infrastructure/4127/3",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-01-08",
      "Shipping in": "",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/79",
@@ -3802,7 +3867,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-periodic-background-sync/3530/4",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-01-20"
     },
     {
@@ -3817,7 +3882,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-video-requestanimationframe/3691",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-01024"
     },
     {
@@ -3832,7 +3897,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-javascript-agent-memory-api/3586/5",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "20200217",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3850,7 +3915,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-origin-isolation-take-2/4258",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-02027",
      "Shipping in": "",
      "Mozilla position": "https://mozilla.github.io/standards-positions/#domenic-origin-isolation"
@@ -3867,7 +3932,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-webotp/4281/2",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-03-05",
      "Shipping in": "",
      "Mozilla position": "somewhat related: https://github.com/mozilla/standards-positions/issues/152",
@@ -3885,7 +3950,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-media-feeds-api/4223/17",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-03-11"
     },
     {
@@ -3900,7 +3965,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-03-19",
      "Shipping in": "Chrome",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/84",
@@ -3918,7 +3983,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-cross-origin-embedder-policy/4275",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-03-20",
      "Shipping in": "Chrome"
     },
@@ -3934,7 +3999,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/conversion-measurement-api/3580/2",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-03-20"
     },
     {
@@ -3949,7 +4014,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/admin/issues/99",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-04-02"
     },
     {
@@ -3964,7 +4029,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/api-to-get-list-of-available-fonts/1197",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-04-03"
     },
     {
@@ -3979,7 +4044,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-content-indexing-api/4308/4",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-04-08",
      "Shipping in": "",
      "Mozilla position": "",
@@ -3997,7 +4062,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/idle-detection-api/2959/4",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-05-07"
     },
     {
@@ -4012,7 +4077,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-web-payments-digital-product-management-api/4350/4",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-05-15"
     },
     {
@@ -4027,7 +4092,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-web-monetization-a-new-revenue-model-for-the-web/",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-05-27",
      "Shipping in": "",
      "Mozilla position": "https://github.com/mozilla/standards-positions/issues/349"
@@ -4044,7 +4109,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-pwas-as-uri-handlers/4394",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-05-27"
     },
     {
@@ -4059,7 +4124,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-title-bar-customization-for-web-apps/",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2020-07-06"
     },
     {
@@ -4074,7 +4139,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/advertising-to-interest-groups-without-tracking/4565/",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2020-07-06"
     },
     {
@@ -4089,7 +4154,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/advertising-to-interest-groups-without-tracking/4565/38",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "n/a",
+     "Announced on  public-new-work@w3.org": "n/a",
      "Date Added": "2020-07-07"
     },
     {
@@ -4104,7 +4169,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-title-bar-customization-for-web-apps/4278",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "?",
+     "Announced on  public-new-work@w3.org": "?",
      "Date Added": "2020-07-08",
      "Shipping in": "",
      "Mozilla position": "",
@@ -4135,7 +4200,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-storage-buckets/4710",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2020-08-06"
     },
     {
@@ -4150,7 +4215,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/spec-for-responsive-image-client-hints/4706/3",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2020-09-09"
     },
     {
@@ -4165,7 +4230,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/3",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2020-09-23"
     },
     {
@@ -4180,7 +4245,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/9",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2020-10-12"
     },
     {
@@ -4195,7 +4260,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "(moved from WHATWG)",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2020-11-05"
     },
     {
@@ -4210,7 +4275,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/8",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2020-11-16"
     },
     {
@@ -4225,7 +4290,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/15",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2020-11-25"
     },
     {
@@ -4240,7 +4305,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-federated-learning-of-cohorts-floc/4473/3?u=michaelkleber",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2020-12-07"
     },
     {
@@ -4255,7 +4320,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/14",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2020-12-17"
     },
     {
@@ -4270,7 +4335,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-rfc4122-v4-uuids/4986/5",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2021-01-11"
     },
     {
@@ -4285,7 +4350,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/20",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "02/03/21"
     },
     {
@@ -4300,7 +4365,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/21",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2021-02-23"
     },
     {
@@ -4315,7 +4380,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/24",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2021-03-04"
     },
     {
@@ -4330,7 +4395,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-lock-screen-api/4372",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2021-03-18"
     },
     {
@@ -4345,7 +4410,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2021-04-09"
     },
     {
@@ -4360,7 +4425,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2021-04-09"
     },
     {
@@ -4375,7 +4440,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/12",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2021-4-26"
     },
     {
@@ -4390,7 +4455,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-cookies-having-independent-partitioned-state-chips/5290",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2021-5-18"
     },
     {
@@ -4405,7 +4470,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/30",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2021-06-07"
     },
     {
@@ -4420,7 +4485,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/32",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2021-06-21"
     },
     {
@@ -4435,7 +4500,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/31",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2021-07-08"
     },
     {
@@ -4450,7 +4515,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://discourse.wicg.io/t/proposal-capture-handle-bootstrap-app-collaboration-when-screensharing/5354/8",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2021-07-09"
     },
     {
@@ -4465,7 +4530,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/w3c/css-houdini-drafts/issues/1047",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2021-07-26"
     },
     {
@@ -4480,7 +4545,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/35",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2021-08-03"
     },
     {
@@ -4508,7 +4573,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/18",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2021-08-07"
     },
     {
@@ -4549,7 +4614,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/2",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2021-11-1"
     },
     {
@@ -4564,7 +4629,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/51",
      "Repo-manager": "",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2022-03-02"
     },
     {
@@ -4579,7 +4644,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/52",
      "Repo-manager": "",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2022-03-10"
     },
     {
@@ -4607,7 +4672,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/53",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2022-04-07"
     },
     {
@@ -4790,7 +4855,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/105",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2023-06-29"
     },
     {
@@ -4805,7 +4870,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/102",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2023-08-30"
     },
     {
@@ -4833,7 +4898,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/118",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2023-09-14"
     },
     {
@@ -4848,7 +4913,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/112",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2023-09-15"
     },
     {
@@ -4863,7 +4928,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/113",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2023-09-18"
     },
     {
@@ -4878,7 +4943,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/88",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2023-09-19"
     },
     {
@@ -4893,7 +4958,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/106",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "",
+     "Announced on  public-new-work@w3.org": "",
      "Date Added": "2023-09-20"
     },
     {
@@ -4908,7 +4973,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/114",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2023-10-04"
     },
     {
@@ -4962,7 +5027,7 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/101",
      "Repo-manager": "yes",
-     "Announced on  public-review-announce@w3.org": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2024-01-11"
     },
     {
@@ -4989,6 +5054,71 @@
      "Spec Sponsor": "Google",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/145",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Web Translation API",
+     "Link": "https://github.com/WICG/translation-api",
+     "Category": "",
+     "Potential WG": "WebApps?",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/147",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Realm Initialization Control",
+     "Link": "https://github.com/WICG/Realms-Initialization-Control",
+     "Category": "Security",
+     "Potential WG": "WHATWG (or maybe WebAppSec?)",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Metamask?",
+     "Spec Sponsor": "Metamask",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/144",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Canvas Place Element",
+     "Link": "https://github.com/WICG/canvas-place-element",
+     "Category": "Rendering",
+     "Potential WG": "WHATWG (rel to CSSWG)",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/167",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Writing Assistance APIs",
+     "Link": "https://github.com/WICG/writing-assistance-apis/",
+     "Category": "AI",
+     "Potential WG": "?",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/163",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Address autofill API",
+     "Link": "https://github.com/WICG/address_autofill_api",
+     "Category": "Autofill",
+     "Potential WG": "?",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Shopify",
+     "Spec Sponsor": "Shopify",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/162",
      "Repo-manager": "yes"
     }
    ]
