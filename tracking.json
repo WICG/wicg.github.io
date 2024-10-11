@@ -2570,6 +2570,34 @@
      "",
      "https://github.com/WICG/proposals/issues/162",
      "yes"
+    ],
+    [
+     "Signature based SRI",
+     "https://github.com/WICG/signature-based-sri",
+     "Security",
+     "WebAppSec",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/175",
+     "yes"
+    ],
+    [
+     "Explicit Javascript Compile Hints (File Based)",
+     "https://github.com/WICG/explicit-javascript-compile-hints-file-based",
+     "JS",
+     "TC39",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/174",
+     "yes",
+     "yes",
+     "2024-10-10"
     ]
    ],
    "data": [
@@ -5120,6 +5148,34 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/162",
      "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Signature based SRI",
+     "Link": "https://github.com/WICG/signature-based-sri",
+     "Category": "Security",
+     "Potential WG": "WebAppSec",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/175",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Explicit Javascript Compile Hints (File Based)",
+     "Link": "https://github.com/WICG/explicit-javascript-compile-hints-file-based",
+     "Category": "JS",
+     "Potential WG": "TC39",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/174",
+     "Repo-manager": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
+     "Date Added": "2024-10-10"
     }
    ]
   },
