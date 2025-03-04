@@ -2598,6 +2598,21 @@
      "yes",
      "yes",
      "2024-10-10"
+    ],
+    [
+     "Payment link type in HTML",
+     "https://github.com/WICG/paymentlink",
+     "Payments",
+     "WHATWG",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/150",
+     "yes",
+     "yes",
+     "2024-10-28"
     ]
    ],
    "data": [
@@ -5176,6 +5191,21 @@
      "Repo-manager": "yes",
      "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2024-10-10"
+    },
+    {
+     "Repository": "Payment link type in HTML",
+     "Link": "https://github.com/WICG/paymentlink",
+     "Category": "Payments",
+     "Potential WG": "WHATWG",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/150",
+     "Repo-manager": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
+     "Date Added": "2024-10-28"
     }
    ]
   },
