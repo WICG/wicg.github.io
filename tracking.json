@@ -2671,6 +2671,36 @@
      "",
      "https://github.com/WICG/proposals/issues/220",
      "yes"
+    ],
+    [
+     "iframe media pause",
+     "https://github.com/WICG/iframe-media-pausing",
+     "Media",
+     "MediaWG ??",
+     "",
+     "yoav",
+     "Microsoft",
+     "Microsoft",
+     "",
+     "https://github.com/WICG/proposals/issues/210",
+     "yes",
+     "",
+     "2025-09-18"
+    ],
+    [
+     "Email Verification Protocol",
+     "https://github.com/WICG/email-verification-protocol",
+     "Web Apps?",
+     "WebApps?",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/239",
+     "yes",
+     "yes",
+     "2025-10-13"
     ]
    ],
    "data": [
@@ -5322,6 +5352,122 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/220",
      "Repo-manager": "yes"
+    },
+    {
+     "Repository": "iframe media pause",
+     "Link": "https://github.com/WICG/iframe-media-pausing",
+     "Category": "Media",
+     "Potential WG": "MediaWG ??",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Microsoft",
+     "Spec Sponsor": "Microsoft",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/210",
+     "Repo-manager": "yes",
+     "Announced on  public-new-work@w3.org": "",
+     "Date Added": "2025-09-18"
+    },
+    {
+     "Repository": "Email Verification Protocol",
+     "Link": "https://github.com/WICG/email-verification-protocol",
+     "Category": "Web Apps?",
+     "Potential WG": "WebApps?",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/239",
+     "Repo-manager": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
+     "Date Added": "2025-10-13"
+    }
+   ]
+  },
+  {
+   "title": "TPAC 2025",
+   "headerValues": [
+    "WICG/shape-detection-api#109",
+    "Google",
+    "afternoon past 12pm JST",
+    "",
+    "1:45-2:45"
+   ],
+   "sheedId": 1093250107,
+   "rows": [
+    [
+     "Fetch Retry (WICG/proposals#217)",
+     "Google",
+     "in WHATWG?"
+    ],
+    [
+     "Scrollbar Avoidance Area (CSS property) [explainer]",
+     "Ark browser",
+     "",
+     "",
+     "11:15-12:30"
+    ],
+    [
+     "Speculation Rules API with Additional Headers [explainer]",
+     "Ark browser"
+    ],
+    [
+     "Maximum Fling Speed [explainer]",
+     "Ark browser"
+    ],
+    [
+     "self-js-profiling API in Workers (WICG/js-self-profiling#33),",
+     "Microsoft",
+     "",
+     "",
+     "10:30-11:15"
+    ],
+    [],
+    [],
+    [],
+    [
+     "",
+     "",
+     "",
+     "",
+     "Ask for 10:30 start time on schedule"
+    ]
+   ],
+   "data": [
+    {
+     "WICG/shape-detection-api#109": "Fetch Retry (WICG/proposals#217)",
+     "Google": "Google",
+     "afternoon past 12pm JST": "in WHATWG?"
+    },
+    {
+     "WICG/shape-detection-api#109": "Scrollbar Avoidance Area (CSS property) [explainer]",
+     "Google": "Ark browser",
+     "afternoon past 12pm JST": "",
+     "1:45-2:45": "11:15-12:30"
+    },
+    {
+     "WICG/shape-detection-api#109": "Speculation Rules API with Additional Headers [explainer]",
+     "Google": "Ark browser"
+    },
+    {
+     "WICG/shape-detection-api#109": "Maximum Fling Speed [explainer]",
+     "Google": "Ark browser"
+    },
+    {
+     "WICG/shape-detection-api#109": "self-js-profiling API in Workers (WICG/js-self-profiling#33),",
+     "Google": "Microsoft",
+     "afternoon past 12pm JST": "",
+     "1:45-2:45": "10:30-11:15"
+    },
+    {},
+    {},
+    {},
+    {
+     "WICG/shape-detection-api#109": "",
+     "Google": "",
+     "afternoon past 12pm JST": "",
+     "1:45-2:45": "Ask for 10:30 start time on schedule"
     }
    ]
   },
