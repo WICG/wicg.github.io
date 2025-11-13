@@ -2701,6 +2701,21 @@
      "yes",
      "yes",
      "2025-10-13"
+    ],
+    [
+     "Improving DX of HTML Element References",
+     "https://github.com/WICG/idrefs",
+     "WHATWG?",
+     "WHATWG?",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/243",
+     "yes",
+     "yes",
+     "2025-11-12"
     ]
    ],
    "data": [
@@ -5382,6 +5397,21 @@
      "Repo-manager": "yes",
      "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2025-10-13"
+    },
+    {
+     "Repository": "Improving DX of HTML Element References",
+     "Link": "https://github.com/WICG/idrefs",
+     "Category": "WHATWG?",
+     "Potential WG": "WHATWG?",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/243",
+     "Repo-manager": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
+     "Date Added": "2025-11-12"
     }
    ]
   },
