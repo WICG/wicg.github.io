@@ -2716,6 +2716,58 @@
      "yes",
      "yes",
      "2025-11-12"
+    ],
+    [
+     "Connection allowlists",
+     "https://github.com/WICG/connection-allowlists",
+     "WebAppSec",
+     "WebAppSec",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/235",
+     "yes"
+    ],
+    [
+     "<install>",
+     "https://github.com/WICG/install-element",
+     "WebAppSec",
+     "WebAppSec",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/246",
+     "yes"
+    ],
+    [
+     "Delayed message timing",
+     "https://github.com/WICG/delayed-message-timing",
+     "WebPerf",
+     "WebPerf",
+     "",
+     "yoav",
+     "Microsoft",
+     "Microsoft",
+     "",
+     "https://github.com/WICG/proposals/issues/251",
+     "yes"
+    ],
+    [
+     "Cross-origin storage",
+     "https://github.com/WICG/cross-origin-storage",
+     "?",
+     "?",
+     "",
+     "yoav",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/256",
+     "yes"
     ]
    ],
    "data": [
@@ -5412,6 +5464,58 @@
      "Repo-manager": "yes",
      "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2025-11-12"
+    },
+    {
+     "Repository": "Connection allowlists",
+     "Link": "https://github.com/WICG/connection-allowlists",
+     "Category": "WebAppSec",
+     "Potential WG": "WebAppSec",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/235",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "<install>",
+     "Link": "https://github.com/WICG/install-element",
+     "Category": "WebAppSec",
+     "Potential WG": "WebAppSec",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/246",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Delayed message timing",
+     "Link": "https://github.com/WICG/delayed-message-timing",
+     "Category": "WebPerf",
+     "Potential WG": "WebPerf",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Microsoft",
+     "Spec Sponsor": "Microsoft",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/251",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Cross-origin storage",
+     "Link": "https://github.com/WICG/cross-origin-storage",
+     "Category": "?",
+     "Potential WG": "?",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/256",
+     "Repo-manager": "yes"
     }
    ]
   },
