@@ -2768,6 +2768,21 @@
      "",
      "https://github.com/WICG/proposals/issues/256",
      "yes"
+    ],
+    [
+     "CPU performance API",
+     "https://github.com/WICG/cpu-performance/",
+     "WebPerf",
+     "WebPerf",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/253#issuecomment-3724589892",
+     "yes",
+     "yes",
+     "2026-02-02"
     ]
    ],
    "data": [
@@ -5516,6 +5531,21 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/256",
      "Repo-manager": "yes"
+    },
+    {
+     "Repository": "CPU performance API",
+     "Link": "https://github.com/WICG/cpu-performance/",
+     "Category": "WebPerf",
+     "Potential WG": "WebPerf",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/253#issuecomment-3724589892",
+     "Repo-manager": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
+     "Date Added": "2026-02-02"
     }
    ]
   },
