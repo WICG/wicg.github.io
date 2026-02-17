@@ -2783,6 +2783,19 @@
      "yes",
      "yes",
      "2026-02-02"
+    ],
+    [
+     "Speculative load measurement",
+     "https://github.com/WICG/speculative_load_measurement",
+     "WebPerf",
+     "WebPerf",
+     "",
+     "yoav",
+     "Shopify",
+     "Shopify",
+     "",
+     "https://github.com/WICG/proposals/issues/264",
+     "yes"
     ]
    ],
    "data": [
@@ -5546,6 +5559,19 @@
      "Repo-manager": "yes",
      "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2026-02-02"
+    },
+    {
+     "Repository": "Speculative load measurement",
+     "Link": "https://github.com/WICG/speculative_load_measurement",
+     "Category": "WebPerf",
+     "Potential WG": "WebPerf",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Shopify",
+     "Spec Sponsor": "Shopify",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/264",
+     "Repo-manager": "yes"
     }
    ]
   },
