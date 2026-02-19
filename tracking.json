@@ -2796,6 +2796,19 @@
      "",
      "https://github.com/WICG/proposals/issues/264",
      "yes"
+    ],
+    [
+     "Container Timing",
+     "https://github.com/WICG/container-timing",
+     "WebPerf",
+     "WebPerf",
+     "",
+     "yoav",
+     "Bloomberg",
+     "Bloomberg",
+     "",
+     "https://github.com/WICG/proposals/issues/260",
+     "yes"
     ]
    ],
    "data": [
@@ -5571,6 +5584,19 @@
      "Spec Sponsor": "Shopify",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/264",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Container Timing",
+     "Link": "https://github.com/WICG/container-timing",
+     "Category": "WebPerf",
+     "Potential WG": "WebPerf",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Bloomberg",
+     "Spec Sponsor": "Bloomberg",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/260",
      "Repo-manager": "yes"
     }
    ]
