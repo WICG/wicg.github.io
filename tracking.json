@@ -2809,6 +2809,19 @@
      "",
      "https://github.com/WICG/proposals/issues/260",
      "yes"
+    ],
+    [
+     "Network efficiency guardrails",
+     "https://github.com/WICG/network-efficiency-guardrails",
+     "WebPerf",
+     "WebPerf",
+     "",
+     "yoav",
+     "Microsoft",
+     "Microsoft",
+     "",
+     "https://github.com/WICG/proposals/issues/267",
+     "yes"
     ]
    ],
    "data": [
@@ -5597,6 +5610,19 @@
      "Spec Sponsor": "Bloomberg",
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/260",
+     "Repo-manager": "yes"
+    },
+    {
+     "Repository": "Network efficiency guardrails",
+     "Link": "https://github.com/WICG/network-efficiency-guardrails",
+     "Category": "WebPerf",
+     "Potential WG": "WebPerf",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Microsoft",
+     "Spec Sponsor": "Microsoft",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/267",
      "Repo-manager": "yes"
     }
    ]
