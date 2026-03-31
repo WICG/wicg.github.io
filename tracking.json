@@ -2822,6 +2822,21 @@
      "",
      "https://github.com/WICG/proposals/issues/267",
      "yes"
+    ],
+    [
+     "WebRTC Diagnostic Logging",
+     "",
+     "WebRTC",
+     "WebRTC",
+     "",
+     "cwilso",
+     "Google",
+     "Google",
+     "",
+     "https://github.com/WICG/proposals/issues/272",
+     "yes",
+     "yes",
+     "2026-03-30"
     ]
    ],
    "data": [
@@ -5624,6 +5639,21 @@
      "Date last reviewed": "",
      "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/267",
      "Repo-manager": "yes"
+    },
+    {
+     "Repository": "WebRTC Diagnostic Logging",
+     "Link": "",
+     "Category": "WebRTC",
+     "Potential WG": "WebRTC",
+     "Next Step": "",
+     "Initiator": "cwilso",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/272",
+     "Repo-manager": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
+     "Date Added": "2026-03-30"
     }
    ]
   },
