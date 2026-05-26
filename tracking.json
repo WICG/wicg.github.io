@@ -267,6 +267,24 @@
      "https://github.com/chrisn/datacue/blob/master/explainer.md"
     ],
     [
+     "dbsc-sso",
+     "https://github.com/WICG/dbsc-sso",
+     "Security",
+     "WebAppSec",
+     "",
+     "jyasskin",
+     "Google",
+     "Google",
+     "5/20/2026",
+     "",
+     "yes",
+     "yes",
+     "5/20/2026",
+     "",
+     "",
+     "Device Bound Session Credentials for SSO"
+    ],
+    [
      "devtools-protocol",
      "https://github.com/WICG/devtools-protocol",
      "Testing",
@@ -2825,7 +2843,7 @@
     ],
     [
      "WebRTC Diagnostic Logging",
-     "",
+     "https://github.com/WICG/webrtc-diagnostic-logging",
      "WebRTC",
      "WebRTC",
      "",
@@ -2837,6 +2855,36 @@
      "yes",
      "yes",
      "2026-03-30"
+    ],
+    [
+     "Web Haptics",
+     "https://github.com/WICG/web-haptics",
+     "Devices",
+     "DAS & CSSWG",
+     "",
+     "limzh",
+     "Microsoft",
+     "Microsoft",
+     "",
+     "https://github.com/WICG/proposals/issues/262",
+     "yes",
+     "yes",
+     "2026-04-27"
+    ],
+    [
+     "Persistent iframes",
+     "https://github.com/WICG/persistent-iframes",
+     "HTML",
+     "WHATWG",
+     "",
+     "yoav",
+     "Shopify",
+     "Shopify",
+     "",
+     "https://github.com/WICG/proposals/issues/289",
+     "yes",
+     "",
+     "2026-05-22"
     ]
    ],
    "data": [
@@ -3082,6 +3130,24 @@
      "Shipping in": "",
      "Mozilla position": "",
      "Description": "https://github.com/chrisn/datacue/blob/master/explainer.md"
+    },
+    {
+     "Repository": "dbsc-sso",
+     "Link": "https://github.com/WICG/dbsc-sso",
+     "Category": "Security",
+     "Potential WG": "WebAppSec",
+     "Next Step": "",
+     "Initiator": "jyasskin",
+     "Impl. Sponsor": "Google",
+     "Spec Sponsor": "Google",
+     "Date last reviewed": "5/20/2026",
+     "Discourse thread/issue link": "",
+     "Repo-manager": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
+     "Date Added": "5/20/2026",
+     "Shipping in": "",
+     "Mozilla position": "",
+     "Description": "Device Bound Session Credentials for SSO"
     },
     {
      "Repository": "devtools-protocol",
@@ -5642,7 +5708,7 @@
     },
     {
      "Repository": "WebRTC Diagnostic Logging",
-     "Link": "",
+     "Link": "https://github.com/WICG/webrtc-diagnostic-logging",
      "Category": "WebRTC",
      "Potential WG": "WebRTC",
      "Next Step": "",
@@ -5654,6 +5720,36 @@
      "Repo-manager": "yes",
      "Announced on  public-new-work@w3.org": "yes",
      "Date Added": "2026-03-30"
+    },
+    {
+     "Repository": "Web Haptics",
+     "Link": "WICG/web-haptics: Web Haptics API",
+     "Category": "Devices",
+     "Potential WG": "DAS & CSSWG",
+     "Next Step": "",
+     "Initiator": "limzh",
+     "Impl. Sponsor": "Microsoft",
+     "Spec Sponsor": "Microsoft",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/262",
+     "Repo-manager": "yes",
+     "Announced on  public-new-work@w3.org": "yes",
+     "Date Added": "2026-04-27"
+    },
+    {
+     "Repository": "Persistent iframes",
+     "Link": "https://github.com/WICG/persistent-iframes",
+     "Category": "HTML",
+     "Potential WG": "WHATWG",
+     "Next Step": "",
+     "Initiator": "yoav",
+     "Impl. Sponsor": "Shopify",
+     "Spec Sponsor": "Shopify",
+     "Date last reviewed": "",
+     "Discourse thread/issue link": "https://github.com/WICG/proposals/issues/289",
+     "Repo-manager": "yes",
+     "Announced on  public-new-work@w3.org": "",
+     "Date Added": "2026-05-22"
     }
    ]
   },
